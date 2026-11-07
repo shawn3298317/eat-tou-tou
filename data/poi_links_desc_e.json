@@ -1,0 +1,1135 @@
+[
+  {
+    "branch_notes": "Blog lists 198號, IG listing lists 202號; geocode confirms 198號. Serves 海鮮煎餅, 石鍋拌飯, 泡菜煎餅, 韓式炸醬麵, 辣炒年糕.",
+    "canonical_name": "小飯館兒",
+    "cuisine_tags": [
+      "korean"
+    ],
+    "district": "中正區",
+    "duplicate_of": "",
+    "evidence": "Blog/IG: 小飯館兒, 汀洲路三段198號, 韓式料理; geocode FULL_ADDRESS.",
+    "latitude": 25.0123,
+    "longitude": 121.53534,
+    "mrt_station": "公館站",
+    "must_try": "海鮮煎餅",
+    "name": "小飯館",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中正區汀洲路三段198號"
+  },
+  {
+    "branch_notes": "No place named 湞味小廚 found; closest are 滇味小廚 (復興南路二段340巷5號) and 湞味麵館 (虎林街56巷1-1號), different names.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "No exact-name hit in search.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "湞味小廚",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "生水餃專賣店; price unknown, set 2.",
+    "canonical_name": "阿玉水餃專賣店",
+    "cuisine_tags": [
+      "taiwanese",
+      "dumplings"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search listing: 阿玉水餃專賣店, 辛亥路二段217號; geocode FULL_ADDRESS.",
+    "latitude": 25.02161,
+    "longitude": 121.54274,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "阿玉水餃",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區辛亥路二段217號1樓"
+  },
+  {
+    "branch_notes": "Private-club hotpot in 宏國大樓; 涮涮鍋套餐 NT$2,000-5,000; also 官府上品肚包雞鍋.",
+    "canonical_name": "海峽會",
+    "cuisine_tags": [
+      "taiwanese",
+      "hotpot"
+    ],
+    "district": "松山區",
+    "duplicate_of": "",
+    "evidence": "Search: 海峽會, 敦化北路167號B1; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.0547,
+    "longitude": 121.54944,
+    "mrt_station": "台北小巨蛋站",
+    "must_try": "涮涮鍋",
+    "name": "海峽會",
+    "poi_status": "matched",
+    "price_level": 4,
+    "verified_address": "台北市松山區敦化北路167號B1"
+  },
+  {
+    "branch_notes": "Other branches: 忠孝新生店 忠孝東路二段134巷1號 (some sources give 134巷4號), 古亭店.",
+    "canonical_name": "芝生食堂 (民生社區店)",
+    "cuisine_tags": [
+      "japanese",
+      "set-meal"
+    ],
+    "district": "松山區",
+    "duplicate_of": "",
+    "evidence": "Search: 芝生食堂 民生社區店, 民生東路四段80巷1弄1號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.05769,
+    "longitude": 121.5531,
+    "mrt_station": "",
+    "must_try": "五菜一汁定食",
+    "name": "芝生食堂",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市松山區民生東路四段80巷1弄1號"
+  },
+  {
+    "branch_notes": "蔣經國御廚背景; price moderate.",
+    "canonical_name": "湘鼎坊",
+    "cuisine_tags": [
+      "hunan",
+      "chinese"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 湘鼎坊, 基隆路二段184巷1號; geocode FULL_ADDRESS.",
+    "latitude": 25.02519,
+    "longitude": 121.55316,
+    "mrt_station": "六張犁站",
+    "must_try": "砂鍋魚頭",
+    "name": "湘鼎坊",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區基隆路二段184巷1號"
+  },
+  {
+    "branch_notes": "Founded 2001, 七條通; also 海鮮煎餅, 牛小排; price expensive.",
+    "canonical_name": "南大門韓國烤肉",
+    "cuisine_tags": [
+      "korean",
+      "bbq"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 南大門韓國烤肉, 林森北路119巷63號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.05033,
+    "longitude": 121.52715,
+    "mrt_station": "",
+    "must_try": "豬五花",
+    "name": "南大門韓國烤肉",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市中山區林森北路119巷63號"
+  },
+  {
+    "branch_notes": "Only 新莊 (天祥街60號), Taoyuan (仙府路298號) and Taichung (金華路290號) locations found; no Taipei City branch. Do not confuse with 蘇杭點心店 or 蘇杭餐廳.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "Search found only 新北新莊/桃園/台中 branches; no Taipei location.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "蘇杭小館",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "60+ year 福州乾麵 shop near 建國中學; also 蛋包魚丸湯.",
+    "canonical_name": "林家乾麵",
+    "cuisine_tags": [
+      "taiwanese",
+      "noodles"
+    ],
+    "district": "中正區",
+    "duplicate_of": "",
+    "evidence": "Search: 林家乾麵, 泉州街11號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.03019,
+    "longitude": 121.51415,
+    "mrt_station": "中正紀念堂站",
+    "must_try": "福州乾麵",
+    "name": "林家乾麵",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市中正區泉州街11號"
+  },
+  {
+    "branch_notes": "Geocode normalizes address to 延吉街131巷50號; 和牛套餐, 巧克力和牛; price evidence thin.",
+    "canonical_name": "禧太炭火燒肉店",
+    "cuisine_tags": [
+      "japanese",
+      "yakiniku"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 禧太炭火燒肉店, 延吉街131巷1弄50號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.04344,
+    "longitude": 121.55497,
+    "mrt_station": "國父紀念館站",
+    "must_try": "",
+    "name": "禧太炭火燒肉店",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市大安區延吉街131巷1弄50號"
+  },
+  {
+    "branch_notes": "Other branches: 林森店 中山北路一段105巷22號, 外雙溪店 至善路二段471號, 竹北 光明六路267號; also 脆皮雞; geocode confirms exact address (venue name not in geocode full_address).",
+    "canonical_name": "百家班活蝦 (基隆路店)",
+    "cuisine_tags": [
+      "taiwanese",
+      "seafood"
+    ],
+    "district": "信義區",
+    "duplicate_of": "",
+    "evidence": "Official site heyahh.com.tw: 百家班活蝦 基隆路一段126號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.04513,
+    "longitude": 121.56642,
+    "mrt_station": "",
+    "must_try": "胡椒蝦",
+    "name": "百家班活蝦",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市信義區基隆路一段126號"
+  },
+  {
+    "branch_notes": "Bar + Hong Kong snacks; also 咖喱魚蛋; geocode confirms exact address.",
+    "canonical_name": "獅鬥 CDou Bar",
+    "cuisine_tags": [
+      "bar",
+      "hong-kong"
+    ],
+    "district": "萬華區",
+    "duplicate_of": "",
+    "evidence": "Search: 獅鬥 CDou Bar, 康定路25巷19號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.0439,
+    "longitude": 121.50349,
+    "mrt_station": "",
+    "must_try": "燒賣",
+    "name": "獅鬥",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市萬華區康定路25巷19號"
+  },
+  {
+    "branch_notes": "No exact-name hit; only 私宅打邊爐 (長安東路二段174-1號2樓), a different place.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "Search found no place named 港撚原味打邊爐.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "港撚原味打邊爐",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "Price unknown, set 2; also 秘伝のタレ.",
+    "canonical_name": "昇燒肉",
+    "cuisine_tags": [
+      "japanese",
+      "yakiniku"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 昇燒肉, 忠孝東路四段248巷8號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.04046,
+    "longitude": 121.55402,
+    "mrt_station": "",
+    "must_try": "厚切牛舌",
+    "name": "昇燒肉",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區忠孝東路四段248巷8號"
+  },
+  {
+    "branch_notes": "Late-night hours (listing shows 23:59-07:00); price unknown, set 2; no signature dish named.",
+    "canonical_name": "小天海鮮燒烤",
+    "cuisine_tags": [
+      "taiwanese",
+      "seafood",
+      "bbq"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 小天海鮮燒烤, 林森北路119巷55號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.05035,
+    "longitude": 121.52693,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "小天海鮮燒烤",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中山區林森北路119巷55號"
+  },
+  {
+    "branch_notes": "日本酒專門, 下午微醺; price $$.",
+    "canonical_name": "萬華世界下午酒場",
+    "cuisine_tags": [
+      "bar",
+      "japanese"
+    ],
+    "district": "萬華區",
+    "duplicate_of": "",
+    "evidence": "Search: 萬華世界下午酒場, 三水街70號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.03592,
+    "longitude": 121.50193,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "萬華世界下午酒場",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市萬華區三水街70號"
+  },
+  {
+    "branch_notes": "Inside 太平市場; 六種部位, 綜合紅燒肉2部位 NT$100; also 陽春麵.",
+    "canonical_name": "阿角紅燒肉",
+    "cuisine_tags": [
+      "taiwanese"
+    ],
+    "district": "大同區",
+    "duplicate_of": "",
+    "evidence": "Search: 阿角紅燒肉 (劉美麗), 延平北路二段247巷2號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.06221,
+    "longitude": 121.51155,
+    "mrt_station": "大橋頭站",
+    "must_try": "紅燒肉",
+    "name": "正宗阿角紅燒肉",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市大同區延平北路二段247巷2號"
+  },
+  {
+    "branch_notes": "台南直送溫體牛; price unknown, set 2.",
+    "canonical_name": "牛肆",
+    "cuisine_tags": [
+      "taiwanese",
+      "hotpot"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 牛肆, 吉林路422號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.06594,
+    "longitude": 121.53028,
+    "mrt_station": "中山國小站",
+    "must_try": "溫體牛肉爐火鍋",
+    "name": "牛肆",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中山區吉林路422號"
+  },
+  {
+    "branch_notes": "台灣鮮牛肉麵專門店; Chiayi 骨力牛 (新生路729號) appears to be the origin/separate store.",
+    "canonical_name": "骨力牛食堂 艋舺店",
+    "cuisine_tags": [
+      "taiwanese",
+      "beef-noodles"
+    ],
+    "district": "萬華區",
+    "duplicate_of": "",
+    "evidence": "Search: 骨力牛食堂 艋舺店, 西園路二段140巷18號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.03067,
+    "longitude": 121.49574,
+    "mrt_station": "",
+    "must_try": "牛肉麵",
+    "name": "骨力牛",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市萬華區西園路二段140巷18號1樓"
+  },
+  {
+    "branch_notes": "Listing says currently only open to 熟客朋友 (regulars/friends); also serves 牛肉麵.",
+    "canonical_name": "李白白鴛鴦麻辣鍋",
+    "cuisine_tags": [
+      "hotpot",
+      "chinese"
+    ],
+    "district": "松山區",
+    "duplicate_of": "",
+    "evidence": "Search: 李白白鴛鴦麻辣鍋, 富錦街454號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.06071,
+    "longitude": 121.56209,
+    "mrt_station": "",
+    "must_try": "鴛鴦麻辣鍋",
+    "name": "李白白火鍋",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市松山區富錦街454號"
+  },
+  {
+    "branch_notes": "Price evidence thin for an omakase (IG says moderate); offerings 鮑魚, 海膽, 松葉蟹, 鮟鱇魚肝, 白子; no single signature dish named.",
+    "canonical_name": "匠樂割烹壽司",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 匠樂割烹壽司, 四維路52巷31號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.03519,
+    "longitude": 121.54642,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "匠樂",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區四維路52巷31號"
+  },
+  {
+    "branch_notes": "No exact-name hit; similar names (鮨崤 大安路一段31巷12號, 創鮨, 琢鮨) are different places.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "Search found no place named 鮨隆.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "鮨隆",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "Geocode places 愛國東路99號 in 大安區 (some sources list 中正區); also 雞肉丸, 雞心, 提燈.",
+    "canonical_name": "酉志",
+    "cuisine_tags": [
+      "japanese",
+      "yakitori"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 酉志, 愛國東路99號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.03154,
+    "longitude": 121.52843,
+    "mrt_station": "",
+    "must_try": "雞肝",
+    "name": "酉志",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市大安區愛國東路99號1樓"
+  },
+  {
+    "branch_notes": "米其林必比登; also 刈包, 豬腸豬血湯; one 2026 source mentions a possible relocation, verify before going.",
+    "canonical_name": "一甲子餐飲",
+    "cuisine_tags": [
+      "taiwanese"
+    ],
+    "district": "萬華區",
+    "duplicate_of": "",
+    "evidence": "Search: 一甲子餐飲, 康定路79號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.04043,
+    "longitude": 121.50217,
+    "mrt_station": "龍山寺站",
+    "must_try": "焢肉飯",
+    "name": "一甲子",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市萬華區康定路79號"
+  },
+  {
+    "branch_notes": "低消 NT$280起; offerings 蛤蜊, 麻辣鍋, 酸菜白肉鍋; related 林柏食貳火鍋餐酒 環河南路二段198巷12號 (萬華) and 林柏好食 西藏路500號 are separate lines, not merged.",
+    "canonical_name": "林柏食参涮涮鍋",
+    "cuisine_tags": [
+      "hotpot",
+      "shabu"
+    ],
+    "district": "信義區",
+    "duplicate_of": "",
+    "evidence": "Search: 林柏食参涮涮鍋, 松隆路333號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.04846,
+    "longitude": 121.57956,
+    "mrt_station": "松山站",
+    "must_try": "涮涮鍋",
+    "name": "林柏食参",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市信義區松隆路333號"
+  },
+  {
+    "branch_notes": "Hint points to 佛光山安國寺 (北投區復興三路) but no 滴水坊 found there; 佛光山台北道場滴水坊 (松隆路327號10樓, 信義區) and 紫竹林滴水坊 (民權東路三段106巷3弄29號) are different branches, not assigned.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "No 滴水坊 at 安國寺 found; only 台北道場/紫竹林 branches, which do not match the hint.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "滴水坊",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "Other branches: 大直店 植福路217號, 京站店 承德路一段1號; 劍南路 MRT applies to the 大直店 only.",
+    "canonical_name": "一鷺炭火燒鳥工房 (松江本店)",
+    "cuisine_tags": [
+      "japanese",
+      "yakitori"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 一鷺炭火燒鳥工房 松江本店, 民權東路二段152巷1號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.06199,
+    "longitude": 121.53479,
+    "mrt_station": "",
+    "must_try": "雞肉丸",
+    "name": "一鷺",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市中山區民權東路二段152巷1號"
+  },
+  {
+    "branch_notes": "Other branch: 瑞湖街80號, 內湖區.",
+    "canonical_name": "洪師父冠軍牛肉麵 建北店",
+    "cuisine_tags": [
+      "taiwanese",
+      "beef-noodles"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 洪師父冠軍牛肉麵 建北店, 建國北路二段72號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.05494,
+    "longitude": 121.53647,
+    "mrt_station": "",
+    "must_try": "紅燒牛肉麵",
+    "name": "洪師父牛肉麵",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中山區建國北路二段72號"
+  },
+  {
+    "branch_notes": "Hint said 台大醫學院二樓; verified address has no floor detail, do not invent 二樓.",
+    "canonical_name": "杏園餐廳",
+    "cuisine_tags": [
+      "cantonese",
+      "chinese"
+    ],
+    "district": "中正區",
+    "duplicate_of": "",
+    "evidence": "IG listing: 杏園餐廳, 仁愛路一段1號 (台大醫學院); geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.03943,
+    "longitude": 121.51889,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "杏園餐廳",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市中正區仁愛路一段1號"
+  },
+  {
+    "branch_notes": "Price unknown, set 2; no signature dish named.",
+    "canonical_name": "Tacos N Taps",
+    "cuisine_tags": [
+      "mexican"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: Tacos N Taps, 玉門街1號 (圓山); geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.07035,
+    "longitude": 121.52049,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "tacos_n_taps",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中山區玉門街1號"
+  },
+  {
+    "branch_notes": "天母 hint matches this Japanese spot near 天母棒球場; other 金龍 names (金龍焢肉飯 大東路21-1號, 圓山飯店金龍廳) are different places; no single signature dish named.",
+    "canonical_name": "金龍山海旬味",
+    "cuisine_tags": [
+      "japanese"
+    ],
+    "district": "士林區",
+    "duplicate_of": "",
+    "evidence": "Search: 金龍山海旬味, 忠誠路二段154巷11號 (天母); geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.1152,
+    "longitude": 121.53225,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "金龍",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市士林區忠誠路二段154巷11號1樓"
+  },
+  {
+    "branch_notes": "Only location found is 新北市新店區中華路113號 (New Taipei), no Taipei City address.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "Search found 玉麵堂 only in 新店 (中華路113號); no Taipei City location.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "玉麵堂",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "Original 2005 1號店; other Taipei branches: 5號店 醐同 松壽路22號2樓, 10號店 葫同 樂群二路199號, 12號店 蝴同 南京東路二段63號, 13號店 煳同 忠孝東路五段68號4樓.",
+    "canonical_name": "胡同燒肉夜食 (1號店)",
+    "cuisine_tags": [
+      "japanese",
+      "yakiniku"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 胡同燒肉夜食 1號店, 敦化南路一段161巷17號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.04361,
+    "longitude": 121.55013,
+    "mrt_station": "",
+    "must_try": "厚切牛舌",
+    "name": "胡同燒肉",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市大安區敦化南路一段161巷17號"
+  },
+  {
+    "branch_notes": "二店: 民生東路四段76號; also 寧波排骨蛋炒飯; 小籠包 NT$130.",
+    "canonical_name": "蘇杭點心店 (本店)",
+    "cuisine_tags": [
+      "chinese",
+      "dim-sum",
+      "shanghainese"
+    ],
+    "district": "中正區",
+    "duplicate_of": "",
+    "evidence": "Search: 蘇杭點心店 本店, 羅斯福路二段14號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.02873,
+    "longitude": 121.52094,
+    "mrt_station": "古亭站",
+    "must_try": "小籠包",
+    "name": "蘇杭點心店",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中正區羅斯福路二段14號"
+  },
+  {
+    "branch_notes": "Price unknown, set 2; no signature dish named.",
+    "canonical_name": "華王日式涮涮鍋",
+    "cuisine_tags": [
+      "japanese",
+      "shabu"
+    ],
+    "district": "中正區",
+    "duplicate_of": "",
+    "evidence": "Search: 華王日式涮涮鍋, 重慶南路三段60號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.02687,
+    "longitude": 121.51589,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "華王日式涮涮鍋",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中正區重慶南路三段60號"
+  },
+  {
+    "branch_notes": "東區老字號港式料理, 創立於1976; also 蝦餃, 腸粉, 葡式蛋撻.",
+    "canonical_name": "1976道地香港美食",
+    "cuisine_tags": [
+      "hong-kong",
+      "cantonese"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 1976道地香港美食, 敦化南路一段233巷11號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.04051,
+    "longitude": 121.54995,
+    "mrt_station": "",
+    "must_try": "鮮蝦雲吞",
+    "name": "1976香港美食",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區敦化南路一段233巷11號"
+  },
+  {
+    "branch_notes": "Offerings mix 雞白湯/關東煮/麻婆豆腐/叉燒飯/布丁; cuisine and price evidence thin, set 2.",
+    "canonical_name": "京月香",
+    "cuisine_tags": [
+      "japanese",
+      "chinese"
+    ],
+    "district": "大同區",
+    "duplicate_of": "",
+    "evidence": "FB listing: 京月香, 酒泉街100號; geocode FULL_ADDRESS with venue name (京月香商行).",
+    "latitude": 25.07194,
+    "longitude": 121.51441,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "京月香",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大同區酒泉街100號1樓"
+  },
+  {
+    "branch_notes": "No place of this name found in search; closest hits are unrelated temples/tea shops.",
+    "canonical_name": "",
+    "cuisine_tags": [],
+    "district": "",
+    "duplicate_of": "",
+    "evidence": "Search found no place named 玉脂冰清.",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "玉脂冰清",
+    "poi_status": "unmatched",
+    "price_level": 2,
+    "verified_address": ""
+  },
+  {
+    "branch_notes": "豬骨湯頭; offerings 紅燒肉, 紅油抄手; no single signature dish named.",
+    "canonical_name": "大陳記古早味麵店",
+    "cuisine_tags": [
+      "taiwanese",
+      "noodles"
+    ],
+    "district": "內湖區",
+    "duplicate_of": "",
+    "evidence": "Search: 大陳記古早味麵店, 內湖路一段737巷18號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.07962,
+    "longitude": 121.57852,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "大陳記麵店",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市內湖區內湖路一段737巷18號"
+  },
+  {
+    "branch_notes": "手沖咖啡專門; also 肉桂捲, 抹茶蛋糕; price unknown, set 2.",
+    "canonical_name": "藏癮In kaffee",
+    "cuisine_tags": [
+      "cafe",
+      "coffee"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 藏癮In kaffee, 富陽街108巷2號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.01979,
+    "longitude": 121.55659,
+    "mrt_station": "",
+    "must_try": "手沖咖啡",
+    "name": "藏癮",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區富陽街108巷2號1樓"
+  },
+  {
+    "branch_notes": "串燒19元起; other branches: 長春店 長春路128-1號, 天母店 德行東路143號, 延吉店 延吉街99號, 士林店 小北街3號, 晴光店 雙城街10巷31號.",
+    "canonical_name": "柒串燒屋 (柒息地串燒居酒屋長安總店)",
+    "cuisine_tags": [
+      "taiwanese",
+      "yakitori",
+      "izakaya"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 柒串燒屋/柒息地長安總店, 長安東路一段46-1號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.04839,
+    "longitude": 121.52737,
+    "mrt_station": "善導寺站",
+    "must_try": "",
+    "name": "柒串燒",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市中山區長安東路一段46-1號"
+  },
+  {
+    "branch_notes": "航空主題燒肉餐酒 (星宇航空聯名概念); price evidence thin, set 3 on wagyu offerings; no single signature dish named.",
+    "canonical_name": "星胡同 Star Hutong",
+    "cuisine_tags": [
+      "japanese",
+      "yakiniku"
+    ],
+    "district": "信義區",
+    "duplicate_of": "",
+    "evidence": "Search: 星胡同, 忠孝東路四段515號 (大巨蛋D區1F); geocode FULL_ADDRESS exact address.",
+    "latitude": 25.04195,
+    "longitude": 121.55953,
+    "mrt_station": "國父紀念館站",
+    "must_try": "",
+    "name": "星胡同",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市信義區忠孝東路四段515號"
+  },
+  {
+    "branch_notes": "Inside 台北漢來大飯店3樓; also 招牌叉燒皇, 金不換蒜子焗鱸鰻.",
+    "canonical_name": "東方樓頂級粵菜",
+    "cuisine_tags": [
+      "cantonese",
+      "chinese"
+    ],
+    "district": "南港區",
+    "duplicate_of": "",
+    "evidence": "Search: 東方樓頂級粵菜, 經貿一路168號3樓 (漢來大飯店); geocode FULL_ADDRESS exact address.",
+    "latitude": 25.05977,
+    "longitude": 121.61946,
+    "mrt_station": "南港展覽館站",
+    "must_try": "片皮鴨",
+    "name": "東方樓",
+    "poi_status": "matched",
+    "price_level": 4,
+    "verified_address": "台北市南港區經貿一路168號3樓"
+  },
+  {
+    "branch_notes": "Price unknown, set 2; cuisine details thin beyond Japanese restaurant listing.",
+    "canonical_name": "湯日土山",
+    "cuisine_tags": [
+      "japanese"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 湯日土山, 長安東路二段129巷9號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.04898,
+    "longitude": 121.53605,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "湯日土山",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中山區長安東路二段129巷9號"
+  },
+  {
+    "branch_notes": "深夜雞魯飯; price unknown, set 2.",
+    "canonical_name": "司機俱樂部",
+    "cuisine_tags": [
+      "taiwanese"
+    ],
+    "district": "松山區",
+    "duplicate_of": "",
+    "evidence": "Search: 司機俱樂部, 南京東路五段399之2號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.05149,
+    "longitude": 121.56961,
+    "mrt_station": "南京三民站",
+    "must_try": "雞魯飯",
+    "name": "司機俱樂部",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市松山區南京東路五段399之2號"
+  },
+  {
+    "branch_notes": "Candidate name '雲頂阿二' appears to be a variant of 雲鼎阿二; some listings give 石牌路二段77號 but geocode confirms 59號 with venue name 阿二麻辣食堂. Other branches: 通化直營店 通化街78號, 永吉店 永吉路30巷87號.",
+    "canonical_name": "雲鼎阿二麻辣食堂 (石牌總店)",
+    "cuisine_tags": [
+      "hotpot",
+      "mala",
+      "chinese"
+    ],
+    "district": "北投區",
+    "duplicate_of": "",
+    "evidence": "Search: 雲鼎阿二麻辣食堂石牌店, 石牌路二段59號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.11668,
+    "longitude": 121.516,
+    "mrt_station": "",
+    "must_try": "麻辣鍋",
+    "name": "雲頂阿二",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市北投區石牌路二段59號"
+  },
+  {
+    "branch_notes": "二本松餐飲集團; 溫體牛雙饗宴 NT$9,880+10%; Tainan branch 橋山・鵲邸壽喜燒 體育路9號.",
+    "canonical_name": "橋山.壽喜燒 すき焼き專門店",
+    "cuisine_tags": [
+      "japanese",
+      "sukiyaki"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 橋山.壽喜燒, 瑞安街120巷3弄1號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.02989,
+    "longitude": 121.54241,
+    "mrt_station": "大安站",
+    "must_try": "",
+    "name": "橋山壽喜燒",
+    "poi_status": "matched",
+    "price_level": 4,
+    "verified_address": "台北市大安區瑞安街120巷3弄1號"
+  },
+  {
+    "branch_notes": "雲丹和牛宴雙人套餐 NT$9,880+10%; 二館另有包廂 (據報導與代官山花苑同體系, 樂業街126號).",
+    "canonical_name": "二本松涮涮屋 (本館)",
+    "cuisine_tags": [
+      "japanese",
+      "shabu"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 二本松涮涮屋本館, 瑞安街118號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.02969,
+    "longitude": 121.54252,
+    "mrt_station": "大安站",
+    "must_try": "松葉蟹四吃",
+    "name": "二本松涮涮鍋",
+    "poi_status": "matched",
+    "price_level": 4,
+    "verified_address": "台北市大安區瑞安街118號"
+  },
+  {
+    "branch_notes": "橋山/二本松姐妹品牌, 全包廂預約制, 每位低消 NT$2,080; also near 六張犁站.",
+    "canonical_name": "祇園.禪院壽喜燒專門店",
+    "cuisine_tags": [
+      "japanese",
+      "sukiyaki"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 祇園.禪院壽喜燒專門店, 樂利路11巷22號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.02835,
+    "longitude": 121.55204,
+    "mrt_station": "信義安和站",
+    "must_try": "厚切金磚和牛",
+    "name": "祇園禪院壽喜燒專門店",
+    "poi_status": "matched",
+    "price_level": 4,
+    "verified_address": "台北市大安區樂利路11巷22號"
+  },
+  {
+    "branch_notes": "義式冰淇淋 (開心果/抹茶/水果/雪酪); price unknown, set 2; geocode normalizes address to 48巷3號.",
+    "canonical_name": "好正商行",
+    "cuisine_tags": [
+      "dessert",
+      "gelato"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "IG listing: 好正商行, 市民大道四段48巷3號之2; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.04466,
+    "longitude": 121.54583,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "好正商行",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區市民大道四段48巷3號之2"
+  },
+  {
+    "branch_notes": "Newly opened Japanese 食堂 near 通化夜市; offerings 炸雞/鰤/鴨胸/真鯛/生魚片; price unknown, set 2; Fooday notes it is a distance from MRT.",
+    "canonical_name": "食堂 平浪Peacewave",
+    "cuisine_tags": [
+      "japanese",
+      "izakaya"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "Search: 食堂 平浪Peacewave, 通化街189號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.02691,
+    "longitude": 121.55337,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "平浪",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區通化街189號"
+  },
+  {
+    "branch_notes": "70+ year shop, NT$45/個; also known as 武林萌主胡椒餅; a separate 頂好元祖福州胡椒餅 sits at 大安路一段31巷1號.",
+    "canonical_name": "福州元祖胡椒餅",
+    "cuisine_tags": [
+      "taiwanese",
+      "street-food"
+    ],
+    "district": "萬華區",
+    "duplicate_of": "",
+    "evidence": "Search: 福州元祖胡椒餅, 和平西路三段89巷2弄5號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.03547,
+    "longitude": 121.50066,
+    "mrt_station": "龍山寺站",
+    "must_try": "胡椒餅",
+    "name": "福州元祖胡椒餅",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市萬華區和平西路三段89巷2弄5號"
+  },
+  {
+    "branch_notes": "饒河夜市入口攤位, NT$65/個 (2026/10); sister shop on 重慶南路 per TripAdvisor.",
+    "canonical_name": "福州世祖胡椒餅",
+    "cuisine_tags": [
+      "taiwanese",
+      "street-food"
+    ],
+    "district": "松山區",
+    "duplicate_of": "",
+    "evidence": "Search: 福州世祖胡椒餅, 饒河街249號前; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.05097,
+    "longitude": 121.57741,
+    "mrt_station": "松山站",
+    "must_try": "胡椒餅",
+    "name": "福州世祖胡椒餅",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市松山區饒河街249號前"
+  },
+  {
+    "branch_notes": "Geocode also returns a Nala's Mexican Food at 羅斯福路一段7-1號 (中正區), possibly a second/newer location; 師大路 address matches the FB listing coords and the 師大路 hint. Branch: 竹北店 光明五街336號.",
+    "canonical_name": "NALA's Mexican Food",
+    "cuisine_tags": [
+      "mexican",
+      "tex-mex"
+    ],
+    "district": "大安區",
+    "duplicate_of": "",
+    "evidence": "FB listing: NALA's Mexican Food, 師大路126巷5號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.02169,
+    "longitude": 121.52782,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "NALA's Mexican Food",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市大安區師大路126巷5號1樓"
+  },
+  {
+    "branch_notes": "老法國風華法式小酒館; BeApe餐飲團隊二店; also 鵝肝, Cassoulet, 法式洋蔥湯.",
+    "canonical_name": "Gras French",
+    "cuisine_tags": [
+      "french"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: Gras French, 民權西路56巷2號; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.06246,
+    "longitude": 121.52039,
+    "mrt_station": "民權西路站",
+    "must_try": "油封鴨腿",
+    "name": "Gras",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市中山區民權西路56巷2號"
+  },
+  {
+    "branch_notes": "Also 馬賽魚湯 Bouillabaisse, 生蠔, Escargot; near 中山站 as well.",
+    "canonical_name": "BeApe 法國傳統餐酒館",
+    "cuisine_tags": [
+      "french"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: BeApe 法國傳統餐酒館, 中山北路二段72巷1號2樓; geocode FULL_ADDRESS exact address.",
+    "latitude": 25.05723,
+    "longitude": 121.52242,
+    "mrt_station": "雙連站",
+    "must_try": "威靈頓牛排",
+    "name": "BeApe",
+    "poi_status": "matched",
+    "price_level": 3,
+    "verified_address": "台北市中山區中山北路二段72巷1號2樓"
+  },
+  {
+    "branch_notes": "Distinct from 大橋頭魯肉飯 (延平北路三段64之1號), a different shop; offerings 魯肉飯/紅燒肉/味噌湯.",
+    "canonical_name": "台北橋頭美珠魯肉飯",
+    "cuisine_tags": [
+      "taiwanese"
+    ],
+    "district": "大同區",
+    "duplicate_of": "",
+    "evidence": "IG listing: 台北橋頭美珠魯肉飯, 昌吉街156號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.06584,
+    "longitude": 121.51295,
+    "mrt_station": "",
+    "must_try": "魯肉飯",
+    "name": "大橋頭美珠滷肉飯",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市大同區昌吉街156號"
+  },
+  {
+    "branch_notes": "Thread name highlights 德國豬腳 but no menu source confirmed it as the house dish, so must_try left blank; restaurant serves 西式料理/義大利麵/排餐/甜點/咖啡; price unknown, set 2.",
+    "canonical_name": "老爺小花園 (Royal petite garden)",
+    "cuisine_tags": [
+      "western",
+      "cafe"
+    ],
+    "district": "中山區",
+    "duplicate_of": "",
+    "evidence": "Search: 老爺小花園, 伊通街31號 (伊通公園旁); geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.05034,
+    "longitude": 121.53508,
+    "mrt_station": "松江南京站",
+    "must_try": "",
+    "name": "老爺小花園德國豬腳",
+    "poi_status": "matched",
+    "price_level": 2,
+    "verified_address": "台北市中山區伊通街31號"
+  },
+  {
+    "branch_notes": "Candidate name '紅屋A4鐵板燒' has no exact match; best fit is 紅花鐵板燒 A4店 (松高路19號6樓, A4館) per the A4 hint. Other branches: 101旗艦店 市府路45號5樓, SOGO復興館 忠孝東路三段300號10樓. Marked address_only because the venue name does not match the candidate name.",
+    "canonical_name": "紅花鐵板燒 (新光三越A4店)",
+    "cuisine_tags": [
+      "teppanyaki",
+      "japanese"
+    ],
+    "district": "信義區",
+    "duplicate_of": "",
+    "evidence": "Search: 紅花鐵板燒 新光三越A4店, 松高路19號6樓; geocode FULL_ADDRESS with venue name 紅花鐵板燒新光.",
+    "latitude": 25.03933,
+    "longitude": 121.56703,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "紅屋A4鐵板燒",
+    "poi_status": "address_only",
+    "price_level": 2,
+    "verified_address": "台北市信義區松高路19號6樓"
+  },
+  {
+    "branch_notes": "週二公休, 無訂位; offerings 和牛/鮭魚排/回鍋肉/客家小炒, no single signature dish named.",
+    "canonical_name": "新亞鐵板燒",
+    "cuisine_tags": [
+      "teppanyaki",
+      "japanese"
+    ],
+    "district": "信義區",
+    "duplicate_of": "",
+    "evidence": "Search: 新亞鐵板燒, 信義路六段98號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.03575,
+    "longitude": 121.57764,
+    "mrt_station": "",
+    "must_try": "",
+    "name": "新亞鐵板燒",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市信義區信義路六段98號"
+  },
+  {
+    "branch_notes": "Open to 01:30; registered as 錦香陳家涼麵店; second Taipei location 康寧路三段189巷21弄26號 (內湖).",
+    "canonical_name": "陳家涼麵",
+    "cuisine_tags": [
+      "taiwanese",
+      "noodles"
+    ],
+    "district": "松山區",
+    "duplicate_of": "",
+    "evidence": "Search: 陳家涼麵, 南京東路五段123巷29號; geocode FULL_ADDRESS with venue name.",
+    "latitude": 25.0528,
+    "longitude": 121.56069,
+    "mrt_station": "市政府站",
+    "must_try": "涼麵",
+    "name": "陳家涼麵",
+    "poi_status": "matched",
+    "price_level": 1,
+    "verified_address": "台北市松山區南京東路五段123巷29號"
+  }
+]

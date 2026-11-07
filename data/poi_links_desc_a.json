@@ -1,0 +1,1160 @@
+[
+ {
+  "branch_notes": "Name alone is ambiguous: candidates include 宋江北平餡餅粥 (天母北路2號), 宋江無骨鹽酥雞 (松江路26巷1號), 宋廚菜館 and 宋室台菜; no single venue can be confirmed as '宋江'. Geocode returned city-level only.",
+  "canonical_name": "",
+  "cuisine_tags": [],
+  "district": "",
+  "duplicate_of": "",
+  "evidence": "Web search found several different 宋江/宋廚/宋室 venues, none uniquely matching; geocode city-level only.",
+  "latitude": null,
+  "longitude": null,
+  "mrt_station": "",
+  "must_try": "",
+  "name": "宋江",
+  "poi_status": "unmatched",
+  "price_level": 2,
+  "verified_address": ""
+ },
+ {
+  "branch_notes": "Founded 2015, moved to 杭州南路 Dec 2020. Price level moderate per listing; exact menu prices not in evidence, level 2 is an estimate.",
+  "canonical_name": "Taste Test 試試工作室",
+  "cuisine_tags": [
+   "western",
+   "french",
+   "italian"
+  ],
+  "district": "中正區",
+  "duplicate_of": "",
+  "evidence": "Place listing: Taste Test 試試工作室, 杭州南路一段63號1樓, 4.8 stars; geocode FULL_ADDRESS with venue name.",
+  "latitude": 25.04044,
+  "longitude": 121.52593,
+  "mrt_station": "善導寺",
+  "must_try": "乾式熟成鴨胸",
+  "name": "試試工作室",
+  "poi_status": "matched",
+  "price_level": 2,
+  "verified_address": "台北市中正區杭州南路一段63號1樓"
+ },
+ {
+  "branch_notes": "No venue under this exact name found. Closest are 北投米粉湯小吃店 (清江路9號) and 巷仔口米粉湯 (景美街117號 / 和平東路二段118巷48號, not in 北投); cannot confirm any is the same place.",
+  "canonical_name": "",
+  "cuisine_tags": [],
+  "district": "",
+  "duplicate_of": "",
+  "evidence": "Web search found no exact-name match in 北投; geocode returned 巷仔口米粉湯 in 文山區/大安區, not 北投.",
+  "latitude": null,
+  "longitude": null,
+  "mrt_station": "",
+  "must_try": "",
+  "name": "北投巷子口米粉湯",
+  "poi_status": "unmatched",
+  "price_level": 2,
+  "verified_address": ""
+ },
+ {
+  "branch_notes": "Geocode returned the exact street address but without the venue name, hence address_only. Branch: 木麒麟拉麵 across the street at 中山北路一段140巷18號. Ramen NT$350-390.",
+  "canonical_name": "麒麟創作拉麵坊",
+  "cuisine_tags": [
+   "ramen",
+   "japanese"
+  ],
+  "district": "中山區",
+  "duplicate_of": "",
+  "evidence": "Multiple blogs: 麒麟創作拉麵坊, 中山北路一段140巷25號1樓, 中山站2號出口; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.0515,
+  "longitude": 121.52125,
+  "mrt_station": "中山",
+  "must_try": "特級白松露雞魚貝拉麵",
+  "name": "麒麟拉麵",
+  "poi_status": "address_only",
+  "price_level": 2,
+  "verified_address": "台北市中山區中山北路一段140巷25號1樓"
+ },
+ {
+  "branch_notes": "No web evidence for a hotpot venue of this name at 林森北路416巷3號 or anywhere in Taipei; geocode only confirms the street address exists, not the venue.",
+  "canonical_name": "",
+  "cuisine_tags": [],
+  "district": "",
+  "duplicate_of": "",
+  "evidence": "Web search returned no match for the name or the given address; geocode address-only, no venue name.",
+  "latitude": null,
+  "longitude": null,
+  "mrt_station": "",
+  "must_try": "",
+  "name": "隔壁鍋物",
+  "poi_status": "unmatched",
+  "price_level": 2,
+  "verified_address": ""
+ },
+ {
+  "branch_notes": "Geocode returned exact street address without venue name, hence address_only. Distinct from 玖尹食窯 (植福路200號4樓, possibly temporarily closed). Price level expensive per listing.",
+  "canonical_name": "玖尹 Royal Joying Soirée",
+  "cuisine_tags": [
+   "cantonese",
+   "chinese"
+  ],
+  "district": "中山區",
+  "duplicate_of": "",
+  "evidence": "Place listing: Royal Joying Soiree / 玖尹, 伊通街39號, offerings 佛跳牆/鮑魚/花膠; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.05069,
+  "longitude": 121.53492,
+  "mrt_station": "",
+  "must_try": "佛跳牆",
+  "name": "玖尹",
+  "poi_status": "address_only",
+  "price_level": 3,
+  "verified_address": "台北市中山區伊通街39號"
+ },
+ {
+  "branch_notes": "Geocode returned exact street address without venue name, hence address_only. Price level moderate per listing; exact menu prices not in evidence, level 2 is an estimate.",
+  "canonical_name": "GiraPizza 旋轉披薩",
+  "cuisine_tags": [
+   "pizza",
+   "italian"
+  ],
+  "district": "松山區",
+  "duplicate_of": "",
+  "evidence": "Multiple blogs: GiraPizza 旋轉披薩, 敦化北路165巷6號, 小巨蛋站6分鐘; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.05464,
+  "longitude": 121.55028,
+  "mrt_station": "台北小巨蛋",
+  "must_try": "瑪格麗特披薩",
+  "name": "GiraPizza 旋轉披薩",
+  "poi_status": "address_only",
+  "price_level": 2,
+  "verified_address": "台北市松山區敦化北路165巷6號"
+ },
+ {
+  "branch_notes": "Original/first Taipei store (中山店). Branch: 四號公園店, 新北市中和區永貞路221號1樓. Set NT$330.",
+  "canonical_name": "KATSU鑫 熟成豬排蓋飯 中山店",
+  "cuisine_tags": [
+   "tonkatsu",
+   "japanese"
+  ],
+  "district": "大同區",
+  "duplicate_of": "",
+  "evidence": "Multiple blogs: KATSU鑫 中山店, 南京西路64巷16-3號, 中山站6號出口; geocode FULL_ADDRESS contains 'KATSU 鑫'.",
+  "latitude": 25.05183,
+  "longitude": 121.51854,
+  "mrt_station": "中山",
+  "must_try": "熟成豬排蓋飯",
+  "name": "KATSU鑫",
+  "poi_status": "matched",
+  "price_level": 2,
+  "verified_address": "台北市大同區南京西路64巷16-3號"
+ },
+ {
+  "branch_notes": "Founded 1946. Two Ximending addresses on the same street: 峨眉街36號 and 47號 (本店); 47號 used as canonical per official FB/website. Branch: 板橋店 民族路58號. Price moderate per listing; level 2 is an estimate.",
+  "canonical_name": "美觀園日本料理",
+  "cuisine_tags": [
+   "japanese",
+   "sushi"
+  ],
+  "district": "萬華區",
+  "duplicate_of": "",
+  "evidence": "Official site + blogs: 美觀園, 峨眉街47號, 西門站; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.0436,
+  "longitude": 121.50684,
+  "mrt_station": "西門",
+  "must_try": "握壽司",
+  "name": "美觀園日本料理",
+  "poi_status": "address_only",
+  "price_level": 2,
+  "verified_address": "台北市萬華區峨眉街47號"
+ },
+ {
+  "branch_notes": "Founded 1976, original store. Branches: 西門二店 西寧南路169號2樓, 延吉店 延吉街85號, 板橋店 民權路65號1樓. Price moderate per listing; level 2 is an estimate.",
+  "canonical_name": "雅香石頭火鍋 西門總店",
+  "cuisine_tags": [
+   "hotpot"
+  ],
+  "district": "萬華區",
+  "duplicate_of": "",
+  "evidence": "Official site + blogs: 雅香石頭火鍋西門總店, 成都路159號, 西門站6號出口; geocode FULL_ADDRESS contains '雅香自助火鍋城'.",
+  "latitude": 25.04374,
+  "longitude": 121.50284,
+  "mrt_station": "西門",
+  "must_try": "石頭火鍋",
+  "name": "雅香石頭火鍋",
+  "poi_status": "matched",
+  "price_level": 2,
+  "verified_address": "台北市萬華區成都路159號"
+ },
+ {
+  "branch_notes": "Geocode did not return the exact address (returned adjacent 民生西路66巷17號); coordinates are from the place listing for 榕美樹館 at this address. 豆花 shop; price level 1 estimated from dessert prices.",
+  "canonical_name": "榕美樹館",
+  "cuisine_tags": [
+   "dessert",
+   "douhua"
+  ],
+  "district": "中山區",
+  "duplicate_of": "",
+  "evidence": "Place listing + blogs: 榕美樹館, 民生西路66巷21號1樓, 雙連站, 豆花/芋圓/仙草; geocode returned neighbouring 66巷17號 only.",
+  "latitude": 25.056923,
+  "longitude": 121.520806,
+  "mrt_station": "雙連",
+  "must_try": "芋圓豆花",
+  "name": "榕美樹館",
+  "poi_status": "address_only",
+  "price_level": 1,
+  "verified_address": "台北市中山區民生西路66巷21號1樓"
+ },
+ {
+  "branch_notes": "Japanese-style old-house cafe near 晶華酒店. Price level 1 estimated from cafe/dessert prices; exact menu prices not in evidence.",
+  "canonical_name": "Hoto Cafe",
+  "cuisine_tags": [
+   "cafe",
+   "dessert"
+  ],
+  "district": "中山區",
+  "duplicate_of": "",
+  "evidence": "Place listing + blogs: Hoto Cafe, 南京東路一段13巷7弄6號, 中山站3號出口; geocode FULL_ADDRESS with venue name.",
+  "latitude": 25.0535,
+  "longitude": 121.52421,
+  "mrt_station": "中山",
+  "must_try": "提拉米蘇",
+  "name": "Hoto Cafe",
+  "poi_status": "matched",
+  "price_level": 1,
+  "verified_address": "台北市中山區南京東路一段13巷7弄6號"
+ },
+ {
+  "branch_notes": "Geocode returned exact street address without venue name, hence address_only. Address conflict: older sources list 八德路二段274號; current listings (OpenRice, Klook, Wanderlog) give 322號, used here. Michelin Bib Gourmand 2018-2022. Beef noodles NT$200-280.",
+  "canonical_name": "林東芳牛肉麵",
+  "cuisine_tags": [
+   "noodles",
+   "beef-noodles",
+   "taiwanese"
+  ],
+  "district": "中山區",
+  "duplicate_of": "",
+  "evidence": "OpenRice/Klook/Wanderlog: 林東芳牛肉麵, 八德路二段322號; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.04722,
+  "longitude": 121.54304,
+  "mrt_station": "忠孝復興",
+  "must_try": "清燉半筋半肉牛肉麵",
+  "name": "林東芳",
+  "poi_status": "address_only",
+  "price_level": 1,
+  "verified_address": "台北市中山區八德路二段322號"
+ },
+ {
+  "branch_notes": "Exact-name match 葛瑞絲咖啡 (Cafe de Grace) is in 汐止, 新北市汐止區建成路57巷8號, and listed permanently closed; no 葛瑞斯咖啡 in 中山區 found. Similar names 葛蕾絲咖啡館 (南京西路18巷26之1號) and 格沐斯咖啡 (松江路362巷28號) are different places.",
+  "canonical_name": "",
+  "cuisine_tags": [],
+  "district": "",
+  "duplicate_of": "",
+  "evidence": "Search: only exact-name hit is the closed Xizhi cafe; no 中山區 location exists.",
+  "latitude": null,
+  "longitude": null,
+  "mrt_station": "",
+  "must_try": "",
+  "name": "葛瑞斯咖啡",
+  "poi_status": "unmatched",
+  "price_level": 2,
+  "verified_address": ""
+ },
+ {
+  "branch_notes": "No venue named 餓補 found in Taipei; search returned only unrelated names (好餓喔, 寶貝餓餓, 小餓時刻).",
+  "canonical_name": "",
+  "cuisine_tags": [],
+  "district": "",
+  "duplicate_of": "",
+  "evidence": "Web search found no exact-name match for 餓補 in Taipei.",
+  "latitude": null,
+  "longitude": null,
+  "mrt_station": "",
+  "must_try": "",
+  "name": "餓補",
+  "poi_status": "unmatched",
+  "price_level": 2,
+  "verified_address": ""
+ },
+ {
+  "branch_notes": "Geocode could not resolve 信義路二段243巷2號 (returned unrelated addresses); coordinates are from the place listing for this branch. Area hint 連雲街/東門站 points to this branch. Other branch: 寧波西街17號 (中正區). Which is the original store is not established. Price level 1 estimated.",
+  "canonical_name": "奇福扁食 東門店",
+  "cuisine_tags": [
+   "noodles",
+   "wonton",
+   "taiwanese"
+  ],
+  "district": "大安區",
+  "duplicate_of": "",
+  "evidence": "Place listing: 奇福扁食, 信義路二段243巷2號, 東門站, offerings 鮮蝦扁食/紅油抄手; geocode failed on this alley address.",
+  "latitude": 25.034002,
+  "longitude": 121.531028,
+  "mrt_station": "東門",
+  "must_try": "鮮蝦扁食",
+  "name": "奇福扁食",
+  "poi_status": "address_only",
+  "price_level": 1,
+  "verified_address": "台北市大安區信義路二段243巷2號"
+ },
+ {
+  "branch_notes": "Geocode returned the exact address with the name 露露 (the venue's Chinese name) rather than 'Lulu', hence address_only. Price level expensive per listing. No single signature dish named by a source.",
+  "canonical_name": "Lulu Restaurant",
+  "cuisine_tags": [
+   "italian",
+   "western"
+  ],
+  "district": "松山區",
+  "duplicate_of": "",
+  "evidence": "Place listing + EasyCard list: Lulu Restaurant, 民生東路三段113巷9號; geocode FULL_ADDRESS exact street match with name 露露.",
+  "latitude": 25.05857,
+  "longitude": 121.54629,
+  "mrt_station": "",
+  "must_try": "",
+  "name": "Lulu restaurant",
+  "poi_status": "address_only",
+  "price_level": 3,
+  "verified_address": "台北市松山區民生東路三段113巷9號"
+ },
+ {
+  "branch_notes": "Morning stall, 7:00-13:30. Price level inexpensive per listing.",
+  "canonical_name": "龍口米苔目米粉湯",
+  "cuisine_tags": [
+   "noodles",
+   "taiwanese"
+  ],
+  "district": "中正區",
+  "duplicate_of": "",
+  "evidence": "Place listing: 龍口米苔目米粉湯, 汀州路一段224號; geocode FULL_ADDRESS with venue name.",
+  "latitude": 25.02755,
+  "longitude": 121.50985,
+  "mrt_station": "",
+  "must_try": "米苔目",
+  "name": "龍口米苔目",
+  "poi_status": "matched",
+  "price_level": 1,
+  "verified_address": "台北市中正區汀州路一段224號"
+ },
+ {
+  "branch_notes": "Named for nearby 14號公園 (康樂公園 area). Price level 2 is a default; no menu prices in evidence.",
+  "canonical_name": "14號公園麻油雞",
+  "cuisine_tags": [
+   "taiwanese",
+   "sesame-oil-chicken"
+  ],
+  "district": "中山區",
+  "duplicate_of": "",
+  "evidence": "Place listing: 14號公園麻油雞, 林森北路259巷7號; blog places it near 捷運中山站; geocode FULL_ADDRESS with venue name.",
+  "latitude": 25.05438,
+  "longitude": 121.52599,
+  "mrt_station": "中山",
+  "must_try": "麻油雞",
+  "name": "14號公園麻油雞",
+  "poi_status": "matched",
+  "price_level": 2,
+  "verified_address": "台北市中山區林森北路259巷7號"
+ },
+ {
+  "branch_notes": "Geocode returned the exact street address but named a different tenant (麵立吞烏龍專賣唐國本店) at that address, so address_only and the listing may be stale; coordinates match the place listing for 五麥 (25.043441, 121.553655). Price moderate per listing; level 2 is an estimate.",
+  "canonical_name": "五麥壽喜燒鍋物",
+  "cuisine_tags": [
+   "sukiyaki",
+   "japanese",
+   "hotpot"
+  ],
+  "district": "大安區",
+  "duplicate_of": "",
+  "evidence": "Place listing: 五麥壽喜燒鍋物, 延吉街62巷1號, since 2016; geocode exact street match, different venue name returned.",
+  "latitude": 25.0434,
+  "longitude": 121.55359,
+  "mrt_station": "",
+  "must_try": "壽喜燒",
+  "name": "五麥壽喜燒",
+  "poi_status": "address_only",
+  "price_level": 2,
+  "verified_address": "台北市大安區延吉街62巷1號"
+ },
+ {
+  "branch_notes": "Geocode returned exact street address without venue name, hence address_only. One blog title notes the shop has moved (new address not given in the snippet); address as listed Apr 2025. Also serves 巧克力牛肉咖哩. Price level 2 is a default; no menu prices in evidence.",
+  "canonical_name": "嘎哩咖啡 GaliGabi",
+  "cuisine_tags": [
+   "cafe",
+   "curry",
+   "dessert"
+  ],
+  "district": "大同區",
+  "duplicate_of": "",
+  "evidence": "Blog: 嘎哩咖啡 GaliGabi, 重慶北路三段23號2樓, 大橋頭站5分鐘, 紗布乳酪/巧克力牛肉咖哩; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.0647,
+  "longitude": 121.51388,
+  "mrt_station": "大橋頭",
+  "must_try": "紗布乳酪",
+  "name": "嘎哩嘎逼",
+  "poi_status": "address_only",
+  "price_level": 2,
+  "verified_address": "台北市大同區重慶北路三段23號2樓"
+ },
+ {
+  "branch_notes": "Shaved-ice shop; minimum spend NT$100/person per one report. Another listing gives a 承德路二段53巷33號 address, which appears to be a different branch. Price level 1 estimated from shaved-ice prices.",
+  "canonical_name": "Mr. 雪腐 公館店",
+  "cuisine_tags": [
+   "dessert",
+   "shaved-ice"
+  ],
+  "district": "中正區",
+  "duplicate_of": "",
+  "evidence": "Place listing: Mr.雪腐 公館店, 羅斯福路三段244巷21號; WalkerLand names 西瓜雙響炮 as the signature; geocode FULL_ADDRESS with venue name.",
+  "latitude": 25.01661,
+  "longitude": 121.53047,
+  "mrt_station": "公館",
+  "must_try": "西瓜雙響炮",
+  "name": "Mr. 雪腐",
+  "poi_status": "matched",
+  "price_level": 1,
+  "verified_address": "台北市中正區羅斯福路三段244巷21號"
+ },
+ {
+  "branch_notes": "Geocode returned exact street address (15號) without venue name, hence address_only. Area hint 公館 points to this branch. Other branch at 新生南路三段76巷10-1號 (大安區), same phone 02-23693017. No signature dish named by a source. Price level 1 estimated.",
+  "canonical_name": "大盛豬排專門店 公館店",
+  "cuisine_tags": [
+   "tonkatsu",
+   "japanese"
+  ],
+  "district": "中正區",
+  "duplicate_of": "",
+  "evidence": "Place listings: 大盛豬排專門店, 羅斯福路四段52巷16弄15-1號 (公館) and 新生南路三段76巷10-1號; geocode FULL_ADDRESS exact street match.",
+  "latitude": 25.01427,
+  "longitude": 121.53381,
+  "mrt_station": "公館",
+  "must_try": "",
+  "name": "大盛豬排",
+  "poi_status": "address_only",
+  "price_level": 1,
+  "verified_address": "台北市中正區羅斯福路四段52巷16弄15-1號"
+ },
+ {
+  "branch_notes": "Bubble tea / smoothie shop in 公館夜市 (羅斯福路三段316巷). Price level 1 estimated from drink prices. No signature drink named by a source.",
+  "canonical_name": "巴伯Q奶",
+  "cuisine_tags": [
+   "drinks",
+   "bubble-tea"
+  ],
+  "district": "中正區",
+  "duplicate_of": "",
+  "evidence": "Place listing: 巴伯Q奶, 羅斯福路三段316巷4號, bubble tea/brown sugar pearls; geocode FULL_ADDRESS with venue name.",
+  "latitude": 25.01581,
+  "longitude": 121.53268,
+  "mrt_station": "公館",
+  "must_try": "",
+  "name": "巴伯Q奶",
+  "poi_status": "matched",
+  "price_level": 1,
+  "verified_address": "台北市中正區羅斯福路三段316巷4號"
+ },
+ {
+  "name": "欣葉台菜",
+  "canonical_name": "欣葉台菜創始店",
+  "verified_address": "台北市中山區雙城街34之1號",
+  "district": "中山區",
+  "latitude": 25.06653,
+  "longitude": 121.52424,
+  "mrt_station": "中山國小",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "taiwanese",
+   "chinese"
+  ],
+  "price_level": 3,
+  "must_try": "菜脯蛋",
+  "branch_notes": "創始店(1977年開業,米其林入選)。其他分店:南西店 南京西路12號8樓、信義店 松壽路9號8樓、101食藝軒 信義路五段7號85樓、欣葉小聚為旗下不同品牌(非本店分店)。",
+  "evidence": "米其林2026名單列欣葉台菜(創始店)於雙城街34之1號;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "趙記菜肉混沌",
+  "canonical_name": "趙記菜肉餛飩大王",
+  "verified_address": "台北市中正區桃源街5號",
+  "district": "中正區",
+  "latitude": 25.0419,
+  "longitude": 121.51057,
+  "mrt_station": "西門",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "wonton",
+   "chinese"
+  ],
+  "price_level": 1,
+  "must_try": "菜肉餛飩",
+  "branch_notes": "候選名'混沌'為'餛飩'之誤寫,店名以趙記菜肉餛飩大王為準。餛飩小碗110元/中碗145元/大碗180元;亦賣炸醬麵、水餃、牛肉麵、刀削麵。",
+  "evidence": "官網chao60.com.tw及Fooday:桃源街5號,近西門站/總統府;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "富宏牛肉麵",
+  "canonical_name": "富宏牛肉麵",
+  "verified_address": "台北市萬華區洛陽街67-69號",
+  "district": "萬華區",
+  "latitude": 25.04753,
+  "longitude": 121.50781,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "beef-noodles",
+   "taiwanese"
+  ],
+  "price_level": 1,
+  "must_try": "牛肉麵",
+  "branch_notes": "24小時營業;牛肉麵約120元。一篇韓文部落格誤植地址為延平南路137巷7號,未採信,洛陽街67-69號為多來源一致地址。",
+  "evidence": "Tripadvisor/Trip.com多來源:洛陽街67-69號,24小時;geocode FULL_ADDRESS含店名(67號)。"
+ },
+ {
+  "name": "石牌大三元快餐",
+  "canonical_name": "大三元快餐",
+  "verified_address": "台北市北投區裕民一路19號",
+  "district": "北投區",
+  "latitude": 25.11673,
+  "longitude": 121.51686,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "bento",
+   "buffet",
+   "taiwanese"
+  ],
+  "price_level": 2,
+  "must_try": "",
+  "branch_notes": "與中正區衡陽路46號的大三元酒樓(粵菜,米其林推薦)不同店。無來源指明招牌菜或捷運站,故must_try與mrt_station留空;price_level 2為預設。",
+  "evidence": "Instagram/place listing:裕民一路19號,自助餐/便當快餐;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "龍門陣四川火鍋",
+  "canonical_name": "龍門陣四川火鍋",
+  "verified_address": "台北市松山區八德路四段257號1樓",
+  "district": "松山區",
+  "latitude": 25.04904,
+  "longitude": 121.56515,
+  "mrt_station": "南京三民",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "hotpot",
+   "sichuan"
+  ],
+  "price_level": 3,
+  "must_try": "",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。Fooday標示價位NT$1,000-NT$1,450。無來源指明招牌菜。",
+  "evidence": "Fooday:八德路四段257號1樓,最近捷運南京三民;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "Flügel Studio",
+  "canonical_name": "Flügel Studio",
+  "verified_address": "台北市大安區辛亥路一段34巷3號1樓",
+  "district": "大安區",
+  "latitude": 25.01973,
+  "longitude": 121.53029,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "cafe",
+   "dessert"
+  ],
+  "price_level": 2,
+  "must_try": "",
+  "branch_notes": "手作甜點café,無招牌的低調日系文青店;最低消費1杯飲料。無來源指明單一招牌甜點(部落客個人最愛為夏日水果南法水果慕斯,屬季節品項),故must_try留空。",
+  "evidence": "FB官方:辛亥路一段34巷3號1樓,手作甜點café;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "Aj grill",
+  "canonical_name": "AJ grill",
+  "verified_address": "台北市大安區安和路一段135巷10號",
+  "district": "大安區",
+  "latitude": 25.03417,
+  "longitude": 121.5533,
+  "mrt_station": "信義安和",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "steakhouse",
+   "american"
+  ],
+  "price_level": 3,
+  "must_try": "威士忌熟成帶骨肋眼牛排",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。米其林名店T+T相關品牌;套餐980元起,另加10%服務費。",
+  "evidence": "多篇食記:安和路一段135巷10號,信義安和站5號出口步行1-3分鐘;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "木柵大碗公牛肉麵",
+  "canonical_name": "大碗公牛肉麵",
+  "verified_address": "台北市文山區木柵路一段294號",
+  "district": "文山區",
+  "latitude": 24.98839,
+  "longitude": 121.55669,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "beef-noodles"
+  ],
+  "price_level": 2,
+  "must_try": "牛肉麵",
+  "branch_notes": "price_level 2為預設,無菜單價格佐證。無來源指明捷運站。",
+  "evidence": "Instagram/Google place listing:木柵路一段294號;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "週末炸雞俱樂部",
+  "canonical_name": "週末炸雞俱樂部信義店",
+  "verified_address": "台北市信義區基隆路二段74號",
+  "district": "信義區",
+  "latitude": 25.0309,
+  "longitude": 121.55794,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "fried-chicken",
+   "american",
+   "bar"
+  ],
+  "price_level": 3,
+  "must_try": "",
+  "branch_notes": "信義店為炸雞omakase+酒吧(週四至週日營業,10道式菜單1,680元起);另一分店週末炸雞漢堡俱樂部大巨蛋店位於忠孝東路四段515號,主打炸雞漢堡。無來源指明信義店單一招牌菜。",
+  "evidence": "KiraKacha/Wanderlog:信義店基隆路二段74號;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "鍋膳",
+  "canonical_name": "鍋膳",
+  "verified_address": "台北市中正區臨沂街27巷9-3號",
+  "district": "中正區",
+  "latitude": 25.04117,
+  "longitude": 121.53144,
+  "mrt_station": "",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "hotpot",
+   "shabu"
+  ],
+  "price_level": 3,
+  "must_try": "",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only;geocode判定行政區為中正區(臨沂街一帶近忠孝新生,屬中正/大安交界)。價位標示expensive。無來源指明招牌菜或捷運站。",
+  "evidence": "Instagram place listing:臨沂街27巷9-3號,涮涮鍋/和牛;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "UNCLE SHAWN燒肉",
+  "canonical_name": "UNCLE SHAWN燒肉餐酒館 大安一號店",
+  "verified_address": "台北市大安區敦化南路一段160巷51號",
+  "district": "大安區",
+  "latitude": 25.04367,
+  "longitude": 121.54668,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "yakiniku",
+   "japanese",
+   "bar"
+  ],
+  "price_level": 3,
+  "must_try": "厚切牛舌",
+  "branch_notes": "一號店為創始店。其他分店:敦南二號店 敦化南路一段236巷19號、五條通三號店 林森北路85巷7號1樓、新竹店 新竹市林森路137號。價位標示expensive。無來源指明捷運站。",
+  "evidence": "FB官方/Wanderlog:大安一號店敦化南路一段160巷51號;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "小紅莓",
+  "canonical_name": "小紅莓石頭火鍋城",
+  "verified_address": "台北市松山區寶清街24號1樓",
+  "district": "松山區",
+  "latitude": 25.05178,
+  "longitude": 121.56811,
+  "mrt_station": "南京三民",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "hotpot",
+   "taiwanese"
+  ],
+  "price_level": 2,
+  "must_try": "石頭火鍋",
+  "branch_notes": "40年老字號石頭火鍋,僅此一家絕無分號。同名不同店:小紅莓烘焙屋(和平西路三段145號)與鑽石小紅莓火鍋城(昆明街46號)為不同店家,未採信。價位moderate。",
+  "evidence": "食記:寶清街24號1樓,南京三民站1號出口步行約8分鐘,40年老字號;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "台南林無刺虱目魚",
+  "canonical_name": "台南林無刺虱目魚",
+  "verified_address": "新北市三重區大智街173號",
+  "district": "三重區",
+  "latitude": 25.0726,
+  "longitude": 121.4898,
+  "mrt_station": "三和國中",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "milkfish",
+   "taiwanese"
+  ],
+  "price_level": 2,
+  "must_try": "虱目魚蓋飯",
+  "branch_notes": "注意:此店位於新北市三重區,非台北市,請合併方決定是否收錄。40年老字號,06:30-13:30營業(週一公休),老闆每日手工除刺。與台北市內的林記台南無刺虱目魚粥(忠坡北路27號)及台南無刺虱目魚粥(和平東路二段311巷21號)為不同店。price_level 2為預設,無菜單價格佐證。",
+  "evidence": "多篇食記:三重區大智街173號,招牌虱目魚蓋飯、滷魚腸,三和國中站步行約10分鐘;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "中原福州乾麵",
+  "canonical_name": "中原福州乾麵",
+  "verified_address": "台北市中正區延平南路164號",
+  "district": "中正區",
+  "latitude": 25.03746,
+  "longitude": 121.50808,
+  "mrt_station": "小南門",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "taiwanese"
+  ],
+  "price_level": 1,
+  "must_try": "福州乾麵",
+  "branch_notes": "500碗得獎店;平日06:00-19:30,六日公休。東吳大學城區部(貴陽街一段56號)對面一帶,與area_hint相符。與信義區忠孝東路四段553巷2弄9號的福州乾拌麵(二代福林)及赤峰街9號的福州老舖乾麵為不同店。",
+  "evidence": "食記lupanda:延平南路164號,小南門站1號出口步行約3分鐘;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "池音",
+  "canonical_name": "池音鶏白湯ラーメン",
+  "verified_address": "台北市大同區赤峰街23巷25號",
+  "district": "大同區",
+  "latitude": 25.05383,
+  "longitude": 121.52016,
+  "mrt_station": "中山",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "ramen",
+   "japanese"
+  ],
+  "price_level": 2,
+  "must_try": "雞白湯拉麵",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。注意:area_hint稱中山區,但赤峰街23巷25號行政區為大同區(中山/大同交界,近中山站)。price_level 2為預設,無菜單價格佐證。",
+  "evidence": "食記marsfood:赤峰街23巷25號,近中山站,人氣雞白湯拉麵;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "辛殿",
+  "canonical_name": "辛殿麻辣鍋公館店",
+  "verified_address": "台北市中正區羅斯福路三段316巷9弄1號",
+  "district": "中正區",
+  "latitude": 25.01556,
+  "longitude": 121.53184,
+  "mrt_station": "公館",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "hotpot",
+   "mala"
+  ],
+  "price_level": 2,
+  "must_try": "麻辣鍋",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。創始店為松江店(松江路129-4號,2013年);信義店已搬遷至松壽路28號1樓(A19,舊址松壽路12號ATT4FUN)。吃到飽平日午餐568元/晚餐及假日668元。",
+  "evidence": "多來源:公館店羅斯福路三段316巷9弄1號,公館站4號出口步行約3分鐘;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "福嗑古巴三明治",
+  "canonical_name": "福嗑 Lucky Eat",
+  "verified_address": "台北市信義區忠孝東路五段71巷3弄32號1樓",
+  "district": "信義區",
+  "latitude": 25.041532,
+  "longitude": 121.568543,
+  "mrt_station": "市政府",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "sandwich",
+   "american",
+   "cuban"
+  ],
+  "price_level": 2,
+  "must_try": "古巴三明治",
+  "branch_notes": "geocode無法解析71巷3弄32號(僅回傳鄰近71巷30號),故為address_only;座標取自FB商家頁面(25.041532,121.568543)。area_hint指市政府站4號出口,與地址相符。價位moderate。",
+  "evidence": "食記jeremyfoodie/FB:忠孝東路五段71巷3弄32號1樓,近市政府站,古巴/費城三明治專賣;geocode未回傳該弄址。"
+ },
+ {
+  "name": "小螺波",
+  "canonical_name": "小螺波慶城店",
+  "verified_address": "台北市松山區慶城街1號B1",
+  "district": "松山區",
+  "latitude": 25.05271,
+  "longitude": 121.54458,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "luoshifen",
+   "chinese"
+  ],
+  "price_level": 2,
+  "must_try": "聚寶盆螺螄粉",
+  "branch_notes": "台灣螺螄粉品牌。其他分店:西門店 西寧南路105號1樓;信義店 永吉路30巷157弄2號已永久歇業。哪間為創始店未有明確來源,故以仍營業且見於2025年整理文的慶城店為canonical。無來源指明捷運站;price_level 2為預設。",
+  "evidence": "螺螄粉懶人包:慶城店慶城街1號B1,聚寶盆螺螄粉推薦;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "江牛樓",
+  "canonical_name": "江牛樓",
+  "verified_address": "台北市大同區民樂街6號",
+  "district": "大同區",
+  "latitude": 25.05575,
+  "longitude": 121.51082,
+  "mrt_station": "北門",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "beef-noodles",
+   "japanese"
+  ],
+  "price_level": 2,
+  "must_try": "昆布醬油風味牛肉麵",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。日本人開的牛肉麵店,2025年米其林指南入選;每天限量66碗,週三至週六12:00-18:00營業,週日一二公休,全台僅此一間。牛肉麵NT$290-320。另有鴨胸排、煎牛排。",
+  "evidence": "多篇食記:民樂街6號,迪化街永樂市場旁,北門站步行約11分鐘;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "老媽麵店",
+  "canonical_name": "",
+  "verified_address": "",
+  "district": "",
+  "latitude": null,
+  "longitude": null,
+  "mrt_station": "",
+  "poi_status": "unmatched",
+  "duplicate_of": "",
+  "cuisine_tags": [],
+  "price_level": 2,
+  "must_try": "",
+  "branch_notes": "無可確認的台北市店家。精確同名'老媽麵店'僅見於基隆市中山二路41號;台北市內相似名為老媽拌麵(復興南路一段107巷5弄3號,東區)、老媽米粉湯(南京東路五段291巷29弄1號)及老麵店(迪化街二段215-8號),皆不在江牛樓附近,無法確認為同一店。",
+  "evidence": "搜尋'老媽麵店 台北 江牛樓附近'未見台北市同名店;僅基隆同名店與三間名稱相近但位置不符的店。"
+ },
+ {
+  "name": "品司和食",
+  "canonical_name": "品司和食",
+  "verified_address": "台北市中山區天祥路48巷1號1樓",
+  "district": "中山區",
+  "latitude": 25.06185,
+  "longitude": 121.52086,
+  "mrt_station": "民權西路",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "japanese",
+   "sushi"
+  ],
+  "price_level": 2,
+  "must_try": "",
+  "branch_notes": "五星飯店級手藝的日本料理小食堂,供應生魚片、丼飯、定食、壽司;雙人套餐受推崇但無來源指明單一招牌菜,故must_try留空。價位moderate。",
+  "evidence": "民權西路站美食懶人包/Instagram:天祥路48巷1號1樓,民權西路站6號出口步行約10分鐘;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "施家麻油",
+  "canonical_name": "施家麻油腰花",
+  "verified_address": "台北市信義區松山路538-2號",
+  "district": "信義區",
+  "latitude": 25.03776,
+  "longitude": 121.57797,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "taiwanese",
+   "sesame-oil"
+  ],
+  "price_level": 1,
+  "must_try": "麻油腰花",
+  "branch_notes": "與大同區延平北路三段58號的施家鮮肉湯圓(米其林必比登,1960年創立)為不同店。Fooday標示價位NT$110-NT$160。無來源指明捷運站。",
+  "evidence": "FB/Fooday:松山路538-2號,麻油雞、滷肉飯;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "培皮諾小館",
+  "canonical_name": "PEPPINO 培皮諾小館",
+  "verified_address": "台北市大安區濟南路三段42號",
+  "district": "大安區",
+  "latitude": 25.04007,
+  "longitude": 121.53581,
+  "mrt_station": "忠孝新生",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "pizza",
+   "italian"
+  ],
+  "price_level": 2,
+  "must_try": "瑪格麗特比薩",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。傳統南義那不勒斯披薩,主廚曾獲全球披薩大賽冠軍;最低消費500元/人。注意:Wanderlog曾標示歇業,但2026年10月仍有食記造訪且LINE商家頁顯示營業中。",
+  "evidence": "多篇食記:濟南路三段42號,忠孝新生站步行可達;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "Curry stand 1983",
+  "canonical_name": "Curry Stand 1983",
+  "verified_address": "台北市松山區敦化北路238巷29號1樓",
+  "district": "松山區",
+  "latitude": 25.06078,
+  "longitude": 121.54812,
+  "mrt_station": "",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "curry",
+   "japanese"
+  ],
+  "price_level": 2,
+  "must_try": "咖哩飯",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。注意:geocode的店家紀錄另將Curry Stand 1983標在敦化北路222巷16號,與FB官方地址238巷29號不一致,採信FB官方地址;座標取自238巷29號的geocode結果。日式咖哩,老闆稱'咖哩就像飲料'。無來源指明捷運站;price_level 2為預設。",
+  "evidence": "FB官方:敦化北路238巷29號1樓,日式咖哩;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "1516 Bistro",
+  "canonical_name": "1516 Bistro",
+  "verified_address": "台北市大安區復興南路一段30巷4號",
+  "district": "大安區",
+  "latitude": 25.046503,
+  "longitude": 121.543385,
+  "mrt_station": "",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "bistro",
+   "german",
+   "bar"
+  ],
+  "price_level": 3,
+  "must_try": "豬腳",
+  "branch_notes": "geocode無法解析復興南路一段30巷4號(僅回傳135巷3號與340巷8號),故為address_only;座標取自FB商家頁面(25.046503,121.543385)。以德國酒為主的溫馨小酒館,價位標示expensive。無來源指明捷運站。",
+  "evidence": "FB官方:復興南路一段30巷4號,德國酒小酒館;geocode未回傳該巷址。"
+ },
+ {
+  "name": "態芮",
+  "canonical_name": "態芮 Taïrroir",
+  "verified_address": "台北市中山區樂群三路299號6樓",
+  "district": "中山區",
+  "latitude": 25.08273,
+  "longitude": 121.55921,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "french",
+   "fine-dining",
+   "taiwanese"
+  ],
+  "price_level": 4,
+  "must_try": "",
+  "branch_notes": "米其林三星(2023-2026連續4年),法式手法詮釋台灣料理;人均NT$4,000+。無來源指明單一招牌菜,故must_try留空。無來源指明捷運站。",
+  "evidence": "米其林2026名單:態芮三星,樂群三路299號6樓;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "晶華軒",
+  "canonical_name": "晶華軒",
+  "verified_address": "台北市中山區中山北路二段41號",
+  "district": "中山區",
+  "latitude": 25.05431,
+  "longitude": 121.52377,
+  "mrt_station": "中山",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "cantonese",
+   "chinese"
+  ],
+  "price_level": 3,
+  "must_try": "蜜汁叉燒",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。台北晶華酒店內米其林一星粵菜餐廳;飯店地址為中山北路二段39巷3號,餐廳本身登記為41號。秋季招牌蟹餚有膏蟹麻婆豆腐、花雕蒸膏蟹。一則商家頁面標示price inexpensive,與米其林一星粵菜定位不符,未採信。",
+  "evidence": "Regent官網/上報:晶華軒,中山北路二段41號,米其林一星,中山站3號出口步行約6分鐘;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "潼鐵板燒",
+  "canonical_name": "潼精緻鐵板料理新生店",
+  "verified_address": "台北市中山區新生北路一段158號",
+  "district": "中山區",
+  "latitude": 25.05156,
+  "longitude": 121.52752,
+  "mrt_station": "中山國小",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "teppanyaki",
+   "japanese"
+  ],
+  "price_level": 3,
+  "must_try": "活龍蝦",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。新生店主打一人一隻活龍蝦+和牛,高CP值。其他分店:至善店 至善路三段342號、故宮店 至善路二段471-1號(士林區)。哪間為創始店未有明確來源,故以2018年即有食記的新生店為canonical。",
+  "evidence": "食記lanlan/ifoodie:新生店新生北路一段158號,最近捷運中山國小站;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "栗林裏",
+  "canonical_name": "栗林裏 Li Lin Li",
+  "verified_address": "台北市中山區北安路630巷25弄1號",
+  "district": "中山區",
+  "latitude": 25.08282,
+  "longitude": 121.55044,
+  "mrt_station": "大直",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "dessert",
+   "cafe"
+  ],
+  "price_level": 2,
+  "must_try": "",
+  "branch_notes": "全預約制創意甜點餐飲空間,以栗子、水果、茶、可可為主題,季節性菜單;無來源指明單一招牌品項,故must_try留空。價位moderate。",
+  "evidence": "食記nowhot01/globalfoodelicious:北安路630巷25弄1號,大直站3號出口步行約10分鐘;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "集川辣麵館",
+  "canonical_name": "集川辣麵館",
+  "verified_address": "台北市信義區吳興街88號",
+  "district": "信義區",
+  "latitude": 25.03053,
+  "longitude": 121.56066,
+  "mrt_station": "台北101",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "sichuan"
+  ],
+  "price_level": 1,
+  "must_try": "",
+  "branch_notes": "川味小館,位於捷運台北101站及四四南村旁;週六日固定公休,週一至五12:00-14:00、18:00-20:30。無來源指明單一招牌菜,故must_try留空。價位inexpensive。",
+  "evidence": "FB官方:吳興街88號,捷運台北101站旁;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "重慶抄手麵食",
+  "canonical_name": "重慶抄手麵食",
+  "verified_address": "台北市信義區莊敬路289巷3弄47號",
+  "district": "信義區",
+  "latitude": 25.02969,
+  "longitude": 121.56265,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "sichuan"
+  ],
+  "price_level": 1,
+  "must_try": "紅油抄手",
+  "branch_notes": "area_hint'集川辣麵館附近'指向此信義區分店(莊敬路289巷3弄47號,近吳興街88號的集川辣麵館)。其他同名分店:信義路三段103號(大安區)、成功路三段187巷1號(內湖區)。價位inexpensive。無來源指明捷運站。",
+  "evidence": "FB官方:莊敬路289巷3弄47號,川味抄手麵食;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "御菓子花雨",
+  "canonical_name": "御菓子花雨",
+  "verified_address": "台北市信義區忠孝東路四段553巷16弄3號",
+  "district": "信義區",
+  "latitude": 25.04281,
+  "longitude": 121.56311,
+  "mrt_station": "",
+  "poi_status": "address_only",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "dessert",
+   "japanese"
+  ],
+  "price_level": 2,
+  "must_try": "",
+  "branch_notes": "geocode回傳正確街址但無店名,故為address_only。日式甜點店,販售泡芙、蒙布朗、可麗露、芭菲等,13:00-19:00營業,無訂位服務。無來源指明單一招牌品項,故must_try留空;無來源指明捷運站。價位moderate。",
+  "evidence": "FB官方:忠孝東路四段553巷16弄3號,日式甜點;geocode FULL_ADDRESS為正確街址但不含店名。"
+ },
+ {
+  "name": "八和",
+  "canonical_name": "八和和牛燒肉專門店安和本店",
+  "verified_address": "台北市大安區安和路一段102巷4號",
+  "district": "大安區",
+  "latitude": 25.03419,
+  "longitude": 121.55195,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "yakiniku",
+   "japanese",
+   "wagyu"
+  ],
+  "price_level": 4,
+  "must_try": "厚切牛舌",
+  "branch_notes": "米其林推薦精緻和牛燒肉,主打日本近江牛;經典雙人套餐$6,680,價位very expensive。其他分店:敦北二號店 敦化北路100號(茹曦飯店一樓,近小巨蛋站)。無來源指明安和本店的捷運站。",
+  "evidence": "食記yasumi0531/novacircle:安和本店安和路一段102巷4號,02-2325-0531;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "小王煮瓜",
+  "canonical_name": "小王煮瓜",
+  "verified_address": "台北市萬華區華西街17之4號",
+  "district": "萬華區",
+  "latitude": 25.03917,
+  "longitude": 121.49856,
+  "mrt_station": "龍山寺",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "taiwanese",
+   "braised-pork-rice"
+  ],
+  "price_level": 1,
+  "must_try": "瓜仔肉飯",
+  "branch_notes": "原名小王清湯瓜仔肉,創立於1975年,華西街夜市153號攤位,連續7年米其林必比登推薦;招牌黑金滷肉飯。瓜仔肉飯約35元、清湯瓜仔肉約75元。週二公休。",
+  "evidence": "多篇食記:華西街17之4號攤位153號,龍山寺站1號出口步行約5-9分鐘;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "請請義大利麵",
+  "canonical_name": "Cin Cin Osteria 請請義大利餐廳慶城店",
+  "verified_address": "台北市松山區慶城街16巷16號1樓",
+  "district": "松山區",
+  "latitude": 25.05283,
+  "longitude": 121.54591,
+  "mrt_station": "",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "italian",
+   "pasta",
+   "pizza"
+  ],
+  "price_level": 2,
+  "must_try": "瑪格麗特披薩",
+  "branch_notes": "店名源自義大利文Cin Cin(乾杯)與中文'請、請'的諧音典故。其他分店:逸仙店 逸仙路50巷22號(信義區)。哪間為創始店無來源可證,故以FB主頁(316則評價)所在的慶城店為canonical。價位moderate。無來源指明捷運站。",
+  "evidence": "FB官方:慶城店慶城街16巷16號1F,02-2712-2050;geocode FULL_ADDRESS含店名。"
+ },
+ {
+  "name": "川畝園",
+  "canonical_name": "川畝園麵食館",
+  "verified_address": "台北市大同區承德路二段1巷31號",
+  "district": "大同區",
+  "latitude": 25.0535,
+  "longitude": 121.51904,
+  "mrt_station": "中山",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "noodles",
+   "chinese",
+   "dumplings"
+  ],
+  "price_level": 1,
+  "must_try": "",
+  "branch_notes": "米其林必比登2022入選,2026年米其林Selected名單仍列承德路二段1巷31號(電話02-2556-3800與FB相同),故採用1巷31號;FB商家頁面另列承德路二段120號1樓,疑為登錄誤差,未採信。主打乾麵、湯品、手工餃子,價格親民。無來源指明單一招牌菜,故must_try留空。週日公休。",
+  "evidence": "米其林2026名單:川畝園,承德路二段1巷31號,中山站步行2分鐘;geocode FULL_ADDRESS含店名(川畝園小館)。"
+ },
+ {
+  "name": "螺絲瑪麗",
+  "canonical_name": "螺絲瑪莉 Rose Mary",
+  "verified_address": "台北市中山區南京西路12巷13弄9號",
+  "district": "中山區",
+  "latitude": 25.0517,
+  "longitude": 121.5219,
+  "mrt_station": "中山",
+  "poi_status": "matched",
+  "duplicate_of": "",
+  "cuisine_tags": [
+   "italian",
+   "pasta"
+  ],
+  "price_level": 2,
+  "must_try": "粉紅醬鮮蝦雞肉義大利麵",
+  "branch_notes": "候選名'螺絲瑪麗'為實際店名'螺絲瑪莉'的異寫(瑪麗vs瑪莉);非螺螄粉店,而是義大利麵店。粉紅醬鮮蝦雞肉義大利麵$230+10%。價位moderate。",
+  "evidence": "食記tenjo.tw/官網rosemary.com.tw:南京西路12巷13弄9號,中山站步行約5分鐘;geocode FULL_ADDRESS含店名。"
+ }
+]

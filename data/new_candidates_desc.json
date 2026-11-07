@@ -1,0 +1,5826 @@
+[
+  {
+    "name": "宋江",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "試試工作室",
+    "name_en": "",
+    "area_hint": "善導寺站",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "北投巷子口米粉湯",
+    "name_en": "",
+    "area_hint": "北投",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "麒麟拉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "隔壁鍋物",
+    "name_en": "",
+    "area_hint": "林森北路416巷3號",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "玖尹",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "GiraPizza 旋轉披薩",
+    "name_en": "GiraPizza",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "KATSU鑫",
+    "name_en": "",
+    "area_hint": "熟成豬排蓋飯",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "美觀園日本料理",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "雅香石頭火鍋",
+    "name_en": "",
+    "area_hint": "總店",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "榕美樹館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "Hoto Cafe",
+    "name_en": "Hoto Cafe",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "林東芳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "葛瑞斯咖啡",
+    "name_en": "",
+    "area_hint": "中山區",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "餓補",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "奇福扁食",
+    "name_en": "",
+    "area_hint": "連雲街 東門站",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "Lulu restaurant",
+    "name_en": "Lulu restaurant",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "龍口米苔目",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "14號公園麻油雞",
+    "name_en": "",
+    "area_hint": "14號公園",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "五麥壽喜燒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "嘎哩嘎逼",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Mr. 雪腐",
+    "name_en": "Mr. 雪腐",
+    "area_hint": "公館店",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "大盛豬排",
+    "name_en": "",
+    "area_hint": "公館",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "巴伯Q奶",
+    "name_en": "",
+    "area_hint": "公館",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "欣葉台菜",
+    "name_en": "",
+    "area_hint": "總店",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "趙記菜肉混沌",
+    "name_en": "",
+    "area_hint": "台北",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "富宏牛肉麵",
+    "name_en": "",
+    "area_hint": "台北",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "石牌大三元快餐",
+    "name_en": "",
+    "area_hint": "石牌",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "龍門陣四川火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Flügel Studio",
+    "name_en": "Flügel Studio",
+    "area_hint": "辛亥路一段34巷3號一樓",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "Aj grill",
+    "name_en": "Aj grill",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "木柵大碗公牛肉麵",
+    "name_en": "",
+    "area_hint": "木柵",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "週末炸雞俱樂部",
+    "name_en": "",
+    "area_hint": "信義",
+    "district_hint": "",
+    "mentions": 23,
+    "source_comment_likes": 23
+  },
+  {
+    "name": "鍋膳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "UNCLE SHAWN燒肉",
+    "name_en": "UNCLE SHAWN燒肉",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "小紅莓",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "台南林無刺虱目魚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "中原福州乾麵",
+    "name_en": "",
+    "area_hint": "東吳城區部對面",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "池音",
+    "name_en": "",
+    "area_hint": "中山區",
+    "district_hint": "中山區",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "辛殿",
+    "name_en": "",
+    "area_hint": "公館",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "福嗑古巴三明治",
+    "name_en": "",
+    "area_hint": "市政府捷運站4號出口",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "小螺波",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "江牛樓",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "老媽麵店",
+    "name_en": "",
+    "area_hint": "江牛樓附近",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "品司和食",
+    "name_en": "",
+    "area_hint": "民權西路站出口",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "施家麻油",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "培皮諾小館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "Curry stand 1983",
+    "name_en": "Curry stand 1983",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "1516 Bistro",
+    "name_en": "1516 Bistro",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "態芮",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "晶華軒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "潼鐵板燒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "栗林裏",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "集川辣麵館",
+    "name_en": "",
+    "area_hint": "信義區",
+    "district_hint": "信義區",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "重慶抄手麵食",
+    "name_en": "",
+    "area_hint": "集川辣麵館附近",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "御菓子花雨",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "八和",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "小王煮瓜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "請請義大利麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "川畝園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "螺絲瑪麗",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "18冠軍牛肉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "米食韓國餐廳",
+    "name_en": "",
+    "area_hint": "科技大樓站",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "一品花雕雞",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "高家莊",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "福大蒸餃",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "先進海產店",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "松濤",
+    "name_en": "",
+    "area_hint": "士林",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "讚鐵板燒",
+    "name_en": "",
+    "area_hint": "士林",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "梵燒肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "李氏義大利麵",
+    "name_en": "",
+    "area_hint": "東區",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "茂園台菜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "夏花餐室",
+    "name_en": "Summer Flowers Dining Room",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "小小樹食",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "川渝小吃坊",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "英雄塚",
+    "name_en": "",
+    "area_hint": "信義區",
+    "district_hint": "信義區",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "元鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "詹記",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "老撈",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "這一小鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "樂軒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "燒肉中山",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "天空興波",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "云滇",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "陶然亭",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "鮨天本",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "法點法食",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "老吃家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "豆花莊",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "劉山東",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "玉喜飯店",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "花娘小館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "德朗火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "富樂涮涮鍋",
+    "name_en": "",
+    "area_hint": "劍潭捷運站附近 承德路",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "錢都",
+    "name_en": "",
+    "area_hint": "古亭店",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "いくら蛋所",
+    "name_en": "いくら蛋所",
+    "area_hint": "東門",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "仙台東山炭燒牛舌",
+    "name_en": "",
+    "area_hint": "Dream Plaza 4F",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "劉家宴",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "夜串坊",
+    "name_en": "",
+    "area_hint": "東區",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "東區哨子麵",
+    "name_en": "",
+    "area_hint": "東區",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "永樂擔仔麵",
+    "name_en": "",
+    "area_hint": "大稻埕",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "未央咖啡",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "小氣食堂",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "章邖",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "財神台南擔仔麵",
+    "name_en": "",
+    "area_hint": "民生社區",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "比薩斜躺",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "疆羊大道",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "Butcher Burger",
+    "name_en": "Butcher Burger",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "彧割烹",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "登龍門",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "觀天下",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "La Vie",
+    "name_en": "La Vie",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "Ad adstra",
+    "name_en": "Ad adstra",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 31,
+    "source_comment_likes": 31
+  },
+  {
+    "name": "六廚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "忠青商行",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "梁記滷味",
+    "name_en": "",
+    "area_hint": "臨江街夜市",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "二本松涮涮屋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "牛肉麵．雞湯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "川郎活蟹",
+    "name_en": "",
+    "area_hint": "吉林路",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "MHO甜點工作室",
+    "name_en": "",
+    "area_hint": "士林",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "花滔廚房",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "九記海鮮",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "猛港海鮮",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "香宮",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "阿隆龜山島海產",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "人人人牛排館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 64,
+    "source_comment_likes": 64
+  },
+  {
+    "name": "徐家私廚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "吉村",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "三樵炭火燒肉",
+    "name_en": "San Chiao",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "1001夜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "明星咖啡館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "意麵王",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "魚紅苑川菜餐廳",
+    "name_en": "",
+    "area_hint": "中山區",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "PILLO",
+    "name_en": "PILLO",
+    "area_hint": "大稻埕",
+    "district_hint": "",
+    "mentions": 133,
+    "source_comment_likes": 133
+  },
+  {
+    "name": "自自",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "拾捌粵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Chale Taqueria & Cantina",
+    "name_en": "Chale Taqueria & Cantina",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "木澄廚房",
+    "name_en": "",
+    "area_hint": "吳興街547號 信義區",
+    "district_hint": "信義區",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "瞞著爹",
+    "name_en": "",
+    "area_hint": "西門",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "小六食堂",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "二男小家料理",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "鰭崎日本料理",
+    "name_en": "",
+    "area_hint": "中山站",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "56鐵板燒",
+    "name_en": "",
+    "area_hint": "民權東路三段56號",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "金稻子",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "寓曰",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "山上走走",
+    "name_en": "",
+    "area_hint": "華山店",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "旺盛苑和牛燒肉",
+    "name_en": "",
+    "area_hint": "大同區",
+    "district_hint": "大同區",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "燒肉來1喀",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "伍角船板",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "Byori",
+    "name_en": "Byori",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "夢婆炭火小酒館",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "塩琉",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "木麒麟",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "天雞",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "享點港式飲茶",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "大王漢寶殿",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "有有1969",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "手工殿麻辣鍋物",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "草原風蒙古火鍋",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "鮑福記",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "荖子",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "金彩真",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "游壽司",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "九井",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "赤綠",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "士東市場2樓",
+    "district_hint": "士林區",
+    "mentions": 1,
+    "name": "享宴麵疙瘩",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "信義基隆路",
+    "district_hint": "信義區",
+    "mentions": 1,
+    "name": "丰雲義大利餐酒館",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "name": "肥前屋",
+    "name_en": "",
+    "source_comment_likes": 3
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "花佃關東煮",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "西門町中華路一段192號",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "皇家帝國麻辣火鍋吃到飽",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "name": "雅室牛排",
+    "name_en": "",
+    "source_comment_likes": 5
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "name": "ch17",
+    "name_en": "ch17",
+    "source_comment_likes": 5
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "玉天璽新粵式餐廳",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "隱食家",
+    "name_en": "Inns+",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "中山區",
+    "district_hint": "中山區",
+    "mentions": 1,
+    "name": "蟹道家",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "舞良麵",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "一幸拉麵",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "沸鼎紅麻辣火鍋",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "民權店",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "Takeout Burger & Cafe",
+    "name_en": "Takeout Burger & Cafe",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "美麗排骨麵",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "東湖",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "十分幸福豆花",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "井上和食",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "六張犁",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "三井日本料理",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "鳥本",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "京丘",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "飛雷神",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "Chou Chou",
+    "name_en": "Chou Chou",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "Orchid 蘭",
+    "name_en": "Orchid",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "RAW",
+    "name_en": "RAW",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "Ephernité",
+    "name_en": "Ephernité",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "logy",
+    "name_en": "logy",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "渥達尼斯磨坊",
+    "name_en": "Molino de Urdániz",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "Adachi足立壽司",
+    "name_en": "Adachi",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "壽司芳",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "橘色涮涮屋",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "明福台菜",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "すし謙",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "上吉燒肉",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "廖家牛肉麵",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "中山站附近",
+    "district_hint": "中山區",
+    "mentions": 0,
+    "name": "蘭亭中式料理",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "延吉街",
+    "district_hint": "",
+    "mentions": 117,
+    "name": "肉你好",
+    "name_en": "",
+    "source_comment_likes": 117
+  },
+  {
+    "area_hint": "松山區復興北路303號1樓",
+    "district_hint": "松山區",
+    "mentions": 1,
+    "name": "My Other Place 我的家餐廳",
+    "name_en": "My Other Place",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "旺角石頭火鍋",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "石撈麻辣鍋",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "士林",
+    "district_hint": "士林區",
+    "mentions": 2,
+    "name": "士林富樂火鍋",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "河內河粉",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "大安區",
+    "district_hint": "大安區",
+    "mentions": 71,
+    "name": "自由酒食 真実",
+    "name_en": "",
+    "source_comment_likes": 71
+  },
+  {
+    "area_hint": "北投區石牌路二段90巷18號",
+    "district_hint": "北投區",
+    "mentions": 0,
+    "name": "秋葉餐酒館",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "牡丹樓",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "蓮池會素食自助餐",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "name": "友善食光",
+    "name_en": "",
+    "source_comment_likes": 4
+  },
+  {
+    "area_hint": "內湖文德路",
+    "district_hint": "內湖區",
+    "mentions": 1,
+    "name": "TG Bistro天亦閣",
+    "name_en": "TG Bistro",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "士林店、芝山店",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "隱家拉麵",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "中山",
+    "district_hint": "中山區",
+    "mentions": 1,
+    "name": "雙倍喜歡",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "泰滾",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "Botega",
+    "name_en": "Botega",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "圍爐",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "tuga",
+    "name_en": "tuga",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "秀壽司",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 16,
+    "name": "名古屋台所",
+    "name_en": "",
+    "source_comment_likes": 16
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 16,
+    "name": "香滿園",
+    "name_en": "",
+    "source_comment_likes": 16
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 16,
+    "name": "萬芳麵館",
+    "name_en": "",
+    "source_comment_likes": 16
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "荖酒館",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "塔吉",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "name": "NOBUO",
+    "name_en": "NOBUO",
+    "source_comment_likes": 6
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "name": "一冠",
+    "name_en": "",
+    "source_comment_likes": 6
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "暖男炸雞",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "辣王忠",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "稻咖喱",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "ebi bowl",
+    "name_en": "ebi bowl",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "興蓬萊",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "提燈",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "五之神",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "微風",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "建一食堂",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "大同",
+    "district_hint": "大同區",
+    "mentions": 1,
+    "name": "雲翔麵食",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "士林夜市",
+    "district_hint": "士林區",
+    "mentions": 1,
+    "name": "五豬牛排",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "老井",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "公館",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "鳳城燒臘",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "中正紀念堂",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "金峰滷肉飯",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "龍山寺",
+    "district_hint": "萬華區",
+    "mentions": 76,
+    "name": "龍都冰菓",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "景美",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "轉角冰",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "青年公園附近",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "彩葉草涮涮鍋",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "東門",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "東門肉羹",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "台北車站",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "洋庭坊義大利麵",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "公館",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "小飯館",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "科技大樓",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "湞味小廚",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "科技大樓",
+    "district_hint": "",
+    "mentions": 76,
+    "name": "阿玉水餃",
+    "name_en": "",
+    "source_comment_likes": 76
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "海峽會",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "芝生食堂",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "湘鼎坊",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "南大門韓國烤肉",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "蘇杭小館",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "林家乾麵",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "禧太炭火燒肉店",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 62,
+    "name": "百家班活蝦",
+    "name_en": "",
+    "source_comment_likes": 62
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "name": "獅鬥",
+    "name_en": "",
+    "source_comment_likes": 9
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "name": "港撚原味打邊爐",
+    "name_en": "",
+    "source_comment_likes": 9
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "name": "昇燒肉",
+    "name_en": "",
+    "source_comment_likes": 9
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "name": "小天海鮮燒烤",
+    "name_en": "",
+    "source_comment_likes": 9
+  },
+  {
+    "area_hint": "萬華",
+    "district_hint": "萬華區",
+    "mentions": 9,
+    "name": "萬華世界下午酒場",
+    "name_en": "",
+    "source_comment_likes": 9
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "正宗阿角紅燒肉",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "牛肆",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "骨力牛",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "李白白火鍋",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "匠樂",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "鮨隆",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "酉志",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 42,
+    "name": "一甲子",
+    "name_en": "",
+    "source_comment_likes": 42
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "name": "林柏食参",
+    "name_en": "",
+    "source_comment_likes": 6
+  },
+  {
+    "area_hint": "佛光山安國寺",
+    "district_hint": "",
+    "mentions": 3,
+    "name": "滴水坊",
+    "name_en": "",
+    "source_comment_likes": 3
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "一鷺",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "洪師父牛肉麵",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "台大醫學院二樓",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "杏園餐廳",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "tacos_n_taps",
+    "name_en": "tacos_n_taps",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "天母",
+    "district_hint": "士林區",
+    "mentions": 0,
+    "name": "金龍",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "玉麵堂",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "胡同燒肉",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "蘇杭點心店",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "華王日式涮涮鍋",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "1976香港美食",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "name": "京月香",
+    "name_en": "",
+    "source_comment_likes": 3
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "玉脂冰清",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "內湖737巷",
+    "district_hint": "內湖區",
+    "mentions": 4,
+    "name": "大陳記麵店",
+    "name_en": "",
+    "source_comment_likes": 4
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "藏癮",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "柒串燒",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "星胡同",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 10,
+    "name": "東方樓",
+    "name_en": "",
+    "source_comment_likes": 10
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "湯日土山",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "司機俱樂部",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "雲頂阿二",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "name": "橋山壽喜燒",
+    "name_en": "",
+    "source_comment_likes": 3
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "name": "二本松涮涮鍋",
+    "name_en": "",
+    "source_comment_likes": 3
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "name": "祇園禪院壽喜燒專門店",
+    "name_en": "",
+    "source_comment_likes": 3
+  },
+  {
+    "area_hint": "大安區市民大道四段48巷3號之2",
+    "district_hint": "大安區",
+    "mentions": 2,
+    "name": "好正商行",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 7,
+    "name": "平浪",
+    "name_en": "",
+    "source_comment_likes": 7
+  },
+  {
+    "area_hint": "萬華",
+    "district_hint": "萬華區",
+    "mentions": 2,
+    "name": "福州元祖胡椒餅",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "饒河夜市",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "福州世祖胡椒餅",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "師大路",
+    "district_hint": "",
+    "mentions": 93,
+    "name": "NALA's Mexican Food",
+    "name_en": "NALA's Mexican Food",
+    "source_comment_likes": 93
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "Gras",
+    "name_en": "Gras",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "BeApe",
+    "name_en": "BeApe",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "大橋頭",
+    "district_hint": "大同區",
+    "mentions": 0,
+    "name": "大橋頭美珠滷肉飯",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "老爺小花園德國豬腳",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "A4鐵板燒",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "紅屋A4鐵板燒",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "信義路",
+    "district_hint": "",
+    "mentions": 6,
+    "name": "新亞鐵板燒",
+    "name_en": "",
+    "source_comment_likes": 6
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "name": "陳家涼麵",
+    "name_en": "",
+    "source_comment_likes": 6
+  },
+  {
+    "area_hint": "林口街夜市",
+    "district_hint": "",
+    "mentions": 6,
+    "name": "辣極麻辣燙",
+    "name_en": "",
+    "source_comment_likes": 6
+  },
+  {
+    "area_hint": "金華公園",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "La belle",
+    "name_en": "La belle",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "咔啦啦火鍋",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "肉次方",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "林家蔬菜羊",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "西門町",
+    "district_hint": "",
+    "mentions": 4,
+    "name": "萍姐酸菜麵",
+    "name_en": "",
+    "source_comment_likes": 4
+  },
+  {
+    "area_hint": "慈聖宮",
+    "district_hint": "大同區",
+    "mentions": 0,
+    "name": "慈聖宮肉粥",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "大稻埕",
+    "district_hint": "大同區",
+    "mentions": 0,
+    "name": "大稻埕米糕",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "甲七碗",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "天母店、通安店",
+    "district_hint": "",
+    "mentions": 7,
+    "name": "Burger&co",
+    "name_en": "Burger&co",
+    "source_comment_likes": 7
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "老烤箱披薩",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "萬華",
+    "district_hint": "萬華區",
+    "mentions": 1,
+    "name": "懷念愛玉冰",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "萬華",
+    "district_hint": "萬華區",
+    "mentions": 1,
+    "name": "豐原排骨酥麵",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "鄭記碗粿",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "新生",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "老德記花雕雞",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "桃源街",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "三味香",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "華山",
+    "district_hint": "",
+    "mentions": 13,
+    "name": "SipSip",
+    "name_en": "SipSip",
+    "source_comment_likes": 13
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "劉記川味牛肉麵",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "鎮源麵攤",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "La pasta義麵屋",
+    "name_en": "La pasta",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "善導寺附近",
+    "district_hint": "",
+    "mentions": 12,
+    "name": "大嗑西式餐館",
+    "name_en": "",
+    "source_comment_likes": 12
+  },
+  {
+    "area_hint": "晶華",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "circum",
+    "name_en": "circum",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "圓山大飯店",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "圓苑餐廳",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "私宅打邊爐",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "國都甜不辣",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "月島文字燒",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "Ukai鐵板燒",
+    "name_en": "Ukai",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "美福晴山",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "name": "海港城",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "內湖",
+    "district_hint": "內湖區",
+    "mentions": 4,
+    "name": "本丸多小吃店",
+    "name_en": "",
+    "source_comment_likes": 4
+  },
+  {
+    "area_hint": "西門町",
+    "district_hint": "萬華區",
+    "mentions": 2,
+    "name": "香滿樓",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "內湖",
+    "district_hint": "內湖區",
+    "mentions": 0,
+    "name": "金鍋盃",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "內湖",
+    "district_hint": "內湖區",
+    "mentions": 0,
+    "name": "五棧小館",
+    "name_en": "",
+    "source_comment_likes": 0
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "name": "二次會",
+    "name_en": "",
+    "source_comment_likes": 1
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "中國清真黃牛肉麵",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "笠原麵食館",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "name": "粵香園",
+    "name_en": "",
+    "source_comment_likes": 2
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 77,
+    "name": "侍燒肉",
+    "name_en": "",
+    "source_comment_likes": 77
+  },
+  {
+    "area_hint": "天婦羅",
+    "district_hint": "",
+    "mentions": 77,
+    "name": "元一",
+    "name_en": "",
+    "source_comment_likes": 77
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 77,
+    "name": "綾割烹",
+    "name_en": "",
+    "source_comment_likes": 77
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 77,
+    "name": "成海",
+    "name_en": "",
+    "source_comment_likes": 77
+  },
+  {
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 77,
+    "name": "8號極品",
+    "name_en": "",
+    "source_comment_likes": 77
+  },
+  {
+    "area_hint": "喜來登",
+    "district_hint": "",
+    "mentions": 77,
+    "name": "辰園",
+    "name_en": "",
+    "source_comment_likes": 77
+  },
+  {
+    "name": "布雍家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "醬蟹屋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "軒壽司",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "欣鍋園涮涮鍋",
+    "name_en": "",
+    "area_hint": "古亭站",
+    "district_hint": "",
+    "mentions": 110,
+    "source_comment_likes": 110
+  },
+  {
+    "name": "東京都",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "華國早餐店18號",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "文湖雞湯麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "青蛙膠原麵館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "頂好哨子麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "阿伯蛋包麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "紅屋牛排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Le Puss",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Burnt Burger",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Everywhere 漢堡店",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "嘉漢堡排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Pasta Paradiso",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Cantina del Gio",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Atlas Brunch & Pasta",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "披薩餐酒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "李上",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "漢來名人坊",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Simple Kaffa",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "豆咖啡 BEANCAFE",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Hugh dessert",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "加福奇士蛋糕",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "午冬甜點",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "On the Road Gelato",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Nataraj Indian Cuisine",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "萬華阿男麻油雞",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "阿明炒鱔魚店",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "秋吉串燒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "郭家炒牛肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "本家咖哩",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "拿坡里",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "東湖阿富豆花",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "磐石坊",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "Yoru by Dennis Wang",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 51,
+    "source_comment_likes": 51
+  },
+  {
+    "name": "三元花園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "106粵式椒豬肚鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "鴻記石頭火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "無老鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "長孫火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "花麻辣",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Master Jim Beef Noodle",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "北投栗家牛肉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "牛耳牛肉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "屯京拉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "美景紅油抄手",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "萬華周記肉粥",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "墨竹麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "通化街小胖刈包",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "通化肉圓",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "劉記花枝羹",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Flossy",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "今大滷肉飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "台大瑞哥雞肉飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "東一排骨",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "慶城街海南雞飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "珠記油飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "丼房蛋包飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "台大黑飯糰",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "巧之味水餃",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "長孫",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 64,
+    "source_comment_likes": 64
+  },
+  {
+    "name": "兄弟飯店桂花廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 64,
+    "source_comment_likes": 64
+  },
+  {
+    "name": "禾羽軒壽司",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 64,
+    "source_comment_likes": 64
+  },
+  {
+    "name": "遊壽司",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 64,
+    "source_comment_likes": 64
+  },
+  {
+    "name": "矮料理屋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 64,
+    "source_comment_likes": 64
+  },
+  {
+    "name": "G'day Coffee",
+    "name_en": "G'day Coffee",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "以海嘯之名",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "十得私廚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "CHUA BING黑糖剉冰",
+    "name_en": "CHUA BING",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "ssam",
+    "name_en": "ssam",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Uncle ray",
+    "name_en": "Uncle Ray",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "今日魚市",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "忠南飯館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "金香豬腳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "老張豬腳延平",
+    "name_en": "",
+    "area_hint": "延平",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "慈聖宮豬腳湯",
+    "name_en": "",
+    "area_hint": "慈聖宮",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "環記麻油腰子",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "第二好吃",
+    "name_en": "",
+    "area_hint": "吉林",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "黃大隆雞湯煲",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "初魚鐵板燒",
+    "name_en": "",
+    "area_hint": "泰順",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "觀醬手",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "几處律",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "儂來餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "老舅家鄉味酸白菜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "艋舺熱海",
+    "name_en": "",
+    "area_hint": "艋舺",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "同心大腸蚵仔麵線",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "華西街大鼎肉羹",
+    "name_en": "",
+    "area_hint": "華西街",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "wood pot",
+    "name_en": "wood pot",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "英雄琢",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "大狗吧",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "請請義大利餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "鈉餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 86,
+    "source_comment_likes": 86
+  },
+  {
+    "name": "兩班家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "醉楓園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "金賞軒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "驢子餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "兄弟大飯店飲茶",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "艾迪墨西哥餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "立秋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "SEASON Artisan Pâtissier",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "法朗琪鬆餅",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "勺勺客",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "無敵水餃搶鍋麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "順園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "沃田",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "朱記",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "揉揉麵食館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "茹絲葵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "台南三哥",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "珠寶盒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "法朋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "呷味鮮處女蟳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "喫飯食堂",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "幸子豬排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "1010湘",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "阿桂姨原汁排骨湯",
+    "name_en": "",
+    "area_hint": "大稻埕",
+    "district_hint": "",
+    "mentions": 291,
+    "source_comment_likes": 291
+  },
+  {
+    "name": "添財壽司",
+    "name_en": "",
+    "area_hint": "大稻埕",
+    "district_hint": "",
+    "mentions": 291,
+    "source_comment_likes": 291
+  },
+  {
+    "name": "老天祿",
+    "name_en": "",
+    "area_hint": "西門町",
+    "district_hint": "",
+    "mentions": 291,
+    "source_comment_likes": 291
+  },
+  {
+    "name": "夢幻魔力豬血糕",
+    "name_en": "",
+    "area_hint": "延三夜市",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "燒肉大叔",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "丘一司早午餐",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Broccoli beer韓國餐酒食堂",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "新東南",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "欣葉鍾菜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "松阪亭別邸",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "小膳香",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "Supranormal Bakery Cafe",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "Memo cafe",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "燒酒烤烤豬",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "品湯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Ladurée",
+    "name_en": "Ladurée",
+    "area_hint": "台北101",
+    "district_hint": "",
+    "mentions": 13,
+    "source_comment_likes": 13
+  },
+  {
+    "name": "馥樺川菜",
+    "name_en": "",
+    "area_hint": "明曜百貨後面巷子",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "歐里人文咖啡",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "偵軒火鍋",
+    "name_en": "",
+    "area_hint": "萬隆",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "杭州小籠湯包",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "賴記蚵仔煎",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "龍都冰果",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "旨醞",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "犇",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "七輪燒肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "阿城鵝肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "勝田豬排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "澎派海鮮餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "sandalwood.taipei",
+    "name_en": "sandalwood.taipei",
+    "area_hint": "基隆路二段113號1樓",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "雪鵝",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "齊拉米蘇",
+    "name_en": "",
+    "area_hint": "饒河夜市",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "沐筷子",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "solo pasta",
+    "name_en": "solo pasta",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "羊水",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "散散步",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "陸光",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "山口小鼎膾",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "丰清揚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "鯨落食館",
+    "name_en": "",
+    "area_hint": "中山區",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "拉麵彼得",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "爸爸Kevin",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "原味咖喱屋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "大慶麵店",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "酒菜市場",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "湘民小館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "南方漁場",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 49,
+    "source_comment_likes": 49
+  },
+  {
+    "name": "抱飲抱食",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Flugel",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "omas 歐嬤德式",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "佘家孔雀蛤大王",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "台一",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "藍家割包",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "金雞園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "kaï bistro à vin",
+    "name_en": "kaï bistro à vin",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "拾貳咖啡",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "卡拉拉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "胖喜蛋塔",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "如嬌",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "阿財蔬菜羊肉爐",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "酒庫",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "山雞王",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "胖老闆誠意肉粥",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "雞湯榮",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "蕭家小館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "小品雅廚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "穆記牛肉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "牛角燒肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "錢塘村",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "闔家小館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "上海鄉村",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "日海海鮮熱炒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Lano食堂",
+    "name_en": "Lano",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "No.5 Bagels & Coffee",
+    "name_en": "No.5 Bagels & Coffee",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 81,
+    "source_comment_likes": 81
+  },
+  {
+    "name": "夫妻肺片麻辣火鍋",
+    "name_en": "",
+    "area_hint": "長安東路二段168號",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "水樓",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "加分火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "東引快刀手",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "延平北路旗魚米粉湯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "番紅花",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "鍋無敵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "89海鮮",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "阿魯米",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "北門鳳李冰",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "Salt& Stone",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "富鼎砂鍋粥",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "Baganhood",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "真芳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "The slice shop",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "Looproom",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "黑潮市集花甲蟹煲",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "吐司利亞",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "豐盛食堂",
+    "name_en": "",
+    "area_hint": "永康街",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "榮記燒臘",
+    "name_en": "",
+    "area_hint": "文山區",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "理想時光",
+    "name_en": "",
+    "area_hint": "捷運大安站附近",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "內湖太鼓判",
+    "name_en": "",
+    "area_hint": "內湖",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "霸子牛排西餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "雞湯大叔",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "大塊牛肉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "北平上園樓",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "金湘玉酸辣粉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "糀日和",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "TROUT",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "一番館日式燒肉",
+    "name_en": "",
+    "area_hint": "長春路147號",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "八年得",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "家吶子",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "通化街小胖鹹水雞",
+    "name_en": "",
+    "area_hint": "通化街",
+    "district_hint": "",
+    "mentions": 8,
+    "source_comment_likes": 8
+  },
+  {
+    "name": "胡記米粉湯",
+    "name_en": "",
+    "area_hint": "通化夜市",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "辛喬麻辣",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "雅苑",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "人和園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "INTRO Kitchen",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "紫琳蒸餃",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "安東市場巷仔口米粉湯",
+    "name_en": "",
+    "area_hint": "安東市場",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "小統一牛排館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "緒樂酒廠",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "東京烟火氣",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "青嬌膠原麵館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "双胞胎手工蛋餅",
+    "name_en": "",
+    "area_hint": "士林捷運站2號出口",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "稻彥商號",
+    "name_en": "",
+    "area_hint": "中山區合江街105號",
+    "district_hint": "",
+    "mentions": 9,
+    "source_comment_likes": 9
+  },
+  {
+    "name": "BON MEINGERDA",
+    "name_en": "BON MEINGERDA",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "北投粟家牛肉麵",
+    "name_en": "",
+    "area_hint": "北投",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "焞料理屋",
+    "name_en": "",
+    "area_hint": "台北市信義區福德街195號",
+    "district_hint": "",
+    "mentions": 10,
+    "source_comment_likes": 10
+  },
+  {
+    "name": "林麻醬麵",
+    "name_en": "",
+    "area_hint": "成德市場",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "元味",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "中國清真牛肉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "新華港式餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "四海一家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "談話頭",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "一隅",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "枝豆",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "欣海岸",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "韓金館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "原鄉緣",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "南機場曉迪",
+    "name_en": "",
+    "area_hint": "南機場",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "古亭老王紅燒牛肉麵",
+    "name_en": "",
+    "area_hint": "古亭",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "古亭阿妹麵店",
+    "name_en": "",
+    "area_hint": "古亭",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "洵廚",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "永康刀削麵",
+    "name_en": "",
+    "area_hint": "永康街",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "ANTICO FORNO",
+    "name_en": "ANTICO FORNO",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "翔鮨",
+    "name_en": "Sushi Omakase",
+    "area_hint": "台北市中山",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "吉甘槑喆",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 30,
+    "source_comment_likes": 30
+  },
+  {
+    "name": "天喜迷你火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 30,
+    "source_comment_likes": 30
+  },
+  {
+    "name": "御品元冰火湯圓",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 30,
+    "source_comment_likes": 30
+  },
+  {
+    "name": "再來一翅",
+    "name_en": "",
+    "area_hint": "信義安和站",
+    "district_hint": "",
+    "mentions": 29,
+    "source_comment_likes": 29
+  },
+  {
+    "name": "士東市場137號米粉湯",
+    "name_en": "",
+    "area_hint": "士東市場",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "赤紅醬燒",
+    "name_en": "",
+    "area_hint": "士林夜市基河路",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "屋麥伊",
+    "name_en": "",
+    "area_hint": "北投",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "圓環滷肉飯",
+    "name_en": "",
+    "area_hint": "天母",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "史坦利美式牛排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "source_comment_likes": 9
+  },
+  {
+    "name": "青島水餃",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "source_comment_likes": 9
+  },
+  {
+    "name": "葉甘單蔬食",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "source_comment_likes": 9
+  },
+  {
+    "name": "黃福龍蔥油餅",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "source_comment_likes": 9
+  },
+  {
+    "name": "潮饌麵府",
+    "name_en": "",
+    "area_hint": "台北市信義區吳興街83號",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "老蔡水煎包",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "放Fundining",
+    "name_en": "放Fundining",
+    "area_hint": "台北市信義區嘉興街70-3號",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "蘇阿姨Pizza屋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "美喝麥喝",
+    "name_en": "",
+    "area_hint": "台北市大安區延吉街131巷7號之1",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "鄒記",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 81,
+    "source_comment_likes": 81
+  },
+  {
+    "name": "樂天皇朝",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "好米亞",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "老八風居酒屋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "黑毛屋本家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "奧瑞岡義大利麵餐廳",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "121好",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "延三溫體牛",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "Zaap",
+    "name_en": "Zaap",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 115,
+    "source_comment_likes": 115
+  },
+  {
+    "name": "羽樂歐陸創意料理",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "託你的福豬排",
+    "name_en": "",
+    "area_hint": "內湖",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5
+  },
+  {
+    "name": "島語",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "愛弟豆花",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "羅西尼牛排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "sapori",
+    "name_en": "sapori",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "潮品集",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "真火鍋",
+    "name_en": "",
+    "area_hint": "後山埤捷運站附近",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "豚人拉麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "侯布雄",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 136,
+    "source_comment_likes": 136
+  },
+  {
+    "name": "金仙魚丸店",
+    "name_en": "",
+    "area_hint": "龍江本店",
+    "district_hint": "",
+    "mentions": 136,
+    "source_comment_likes": 136
+  },
+  {
+    "name": "盛園絲瓜小籠湯包",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 136,
+    "source_comment_likes": 136
+  },
+  {
+    "name": "天津蔥抓餅",
+    "name_en": "",
+    "area_hint": "永康街",
+    "district_hint": "",
+    "mentions": 136,
+    "source_comment_likes": 136
+  },
+  {
+    "name": "江南春",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "On Tap",
+    "name_en": "On Tap",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "上引水產",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "教父牛排",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "维多莉亞N168",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "天鍋宴",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "蔵王火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "味擂家",
+    "name_en": "",
+    "area_hint": "信義安和店：大安區通化街38巷23號",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "Pasta & Co.",
+    "name_en": "Pasta & Co.",
+    "area_hint": "中山區",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "台北阿霞飯館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "四兩三",
+    "name_en": "",
+    "area_hint": "石牌商圈夜市",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "老位川酒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "人間半醒",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "湘八老",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "葉公館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "蔣老爹愛吃鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "東京酒食製作所",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "阿叔燒肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "招治飯店",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 14,
+    "source_comment_likes": 14
+  },
+  {
+    "name": "三樵燒肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "初聚日式鍋物",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "金月鍋物",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "王記豆腐捲",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "老李牛雜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "瑪喜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "六必居",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "阿英排骨飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "私廚房",
+    "name_en": "",
+    "area_hint": "天母",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "創作麵坊·鮭之大助",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "麵食主義",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 206,
+    "source_comment_likes": 206
+  },
+  {
+    "name": "慶城海南雞飯",
+    "name_en": "",
+    "area_hint": "慶城街",
+    "district_hint": "",
+    "mentions": 206,
+    "source_comment_likes": 206
+  },
+  {
+    "name": "圓山老地方牛肉麵",
+    "name_en": "",
+    "area_hint": "圓山",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "李歡喜",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "六丁目",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "本鼎堂",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "索菲亞新疆美食",
+    "name_en": "",
+    "area_hint": "中崙市場",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "美觀園36號本舖",
+    "name_en": "",
+    "area_hint": "西門町",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "巫雲",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "雲之南",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "品冠客家小館",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "花花",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "夜上海",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "老炳記",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "湄河泰國料理",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "星海食事所",
+    "name_en": "",
+    "area_hint": "台北東區",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6
+  },
+  {
+    "name": "東引小吃店",
+    "name_en": "",
+    "area_hint": "南松山",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "泰迪農園咖哩",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "空軍涼麵",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "港墘山東餃子館",
+    "name_en": "",
+    "area_hint": "港墘",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "邊城孜然羊肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "夫妻肺片麻辣鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "一品蔬菜羊肉爐",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "麻皇麻辣鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "AJIMI",
+    "name_en": "AJIMI",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "鰭狄日式阪前",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "享鮮餐廳",
+    "name_en": "",
+    "area_hint": "南港中信",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "大稻埕魯肉飯",
+    "name_en": "",
+    "area_hint": "大稻埕",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "武田咖哩",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "不二家拉麵居酒屋",
+    "name_en": "",
+    "area_hint": "中山區",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "幕間一鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "貳房鍋物",
+    "name_en": "",
+    "area_hint": "北投",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "鈺葉火鍋",
+    "name_en": "",
+    "area_hint": "葫洲",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "廣香",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "七品河粉美食",
+    "name_en": "",
+    "area_hint": "中山區農安街251-1號",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "碼頭老火鍋",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  },
+  {
+    "name": "里歐帕朵",
+    "name_en": "",
+    "area_hint": "大直",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2
+  },
+  {
+    "name": "無眠",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "青沐",
+    "name_en": "",
+    "area_hint": "中山",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "咔豬",
+    "name_en": "",
+    "area_hint": "唭哩岸捷運站",
+    "district_hint": "",
+    "mentions": 7,
+    "source_comment_likes": 7
+  },
+  {
+    "name": "雲禾特調小火鍋",
+    "name_en": "",
+    "area_hint": "師大附近",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "川妹子",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "世季花月",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "發肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "比比拉哺",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "合家北安素食點心坊",
+    "name_en": "",
+    "area_hint": "大直北安路",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "暴暴龍",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 49,
+    "source_comment_likes": 49
+  },
+  {
+    "name": "甘心咖啡",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "宸酌咖啡",
+    "name_en": "",
+    "area_hint": "信義安和或國父紀念館站步行5-10分鐘",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "鮨一田",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "鮨岡心",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1
+  },
+  {
+    "name": "石撈麻辣火鍋",
+    "name_en": "",
+    "area_hint": "中山區",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "明壽司",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0
+  },
+  {
+    "name": "巴黎聽",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4
+  },
+  {
+    "name": "雲錦中",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3
+  }
+]
