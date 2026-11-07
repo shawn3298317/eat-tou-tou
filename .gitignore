@@ -1,0 +1,12 @@
+# Dependencies & build output
+node_modules/
+frontend/.next/
+frontend/out/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Editors / OS
+.DS_Store
+*.log
