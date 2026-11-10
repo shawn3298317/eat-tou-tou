@@ -83,3 +83,27 @@ Add a spot from the in-app form (it appends to the CSV via `POST
 /api/restaurants`) or by editing the CSV directly and restarting the backend.
 To grow the list from the thread, pull more replies with
 `threads-cli fetch-post-comments --post-ids 18113719412301018` and append rows.
+
+## Tokyo — `data/tokyo_restaurants.csv`
+
+Same crawl-and-enrich flow, second city. Source is @rita611293's Threads
+post (Jun 12, 2026): 「求 東京 讓你們最驚艷最最最最愛的食物！！！！」—
+2,932 likes, 311 replies, all crawled Nov 10, 2026 (309 comments fetched,
+7 pages, same 90s pacing and per-page checkpoints). 73 candidates
+extracted, 71 rows merged (68 matched / 3 address-only / 0 unmatched).
+
+Same 26-column shape as the Taipei CSV, plus `currency` (JPY) and
+`price_min_jpy` / `price_max_jpy` instead of the NTD price columns. Price
+bands in yen: 1 under ¥1,000, 2 ¥1,000–2,500, 3 ¥2,500–5,000, 4 over
+¥5,000. `district` is the Tokyo neighborhood (浅草, 渋谷, 新宿, ...);
+`area` is the street part of the address; `mrt_station` is the station
+name only. Shared list-comment likes are split across the places in that
+comment (the 29-name list comment splits 221 likes to ~8 each); duplicate
+mentions fold into their canonical row (yellow蛋包飯 +4 into EDW, 鴨拉麵上野
++0 into 鴨to蔥). Working files live in `data/tokyo/` (raw pages, candidates,
+`poi_links_tokyo_{a..f}.json`, `merge_tokyo.py`, `crawl_tokyo.py`).
+
+Two threads' top-liked comments (420 and 382 likes) are photo posts with no
+venue name in the text and could not be identified. 川豐 is in Narita, not
+Tokyo, and is flagged as a day trip. Prices are approximate per-person JPY
+bands — verify before going.

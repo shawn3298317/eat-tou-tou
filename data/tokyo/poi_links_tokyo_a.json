@@ -1,0 +1,230 @@
+[
+  {
+    "name": "阿夫利拉麵",
+    "canonical_name": "AFURI 恵比寿",
+    "verified_address": "東京都渋谷区恵比寿1-1-7 117ビル1F",
+    "district": "恵比寿",
+    "latitude": 35.648295,
+    "longitude": 139.710872,
+    "mrt_station": "恵比寿站 JR山手線・東京メトロ日比谷線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen"
+    ],
+    "price_level": 2,
+    "must_try": "柚子塩らーめん (柚子拉麵)",
+    "branch_notes": "Ebisu is the original shop; other Tokyo branches include Harajuku, Nakameguro, Azabudai Hills, Sangenjaya, Roppongi Crossing and Shinjuku. Open 11:00-05:00, fully cashless.",
+    "evidence": "Official site afuri.com + Tripadvisor: 1-1-7 Ebisu, Shibuya-ku, Yuzu Shio Ramen ¥1,390"
+  },
+  {
+    "name": "Shogun Burger",
+    "canonical_name": "SHOGUN BURGER 新宿総本店",
+    "verified_address": "東京都新宿区歌舞伎町1-15-12 ピアットビル1F",
+    "district": "新宿",
+    "latitude": 35.694067,
+    "longitude": 139.702526,
+    "mrt_station": "新宿站 JR・東京メトロ丸ノ内線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "burger",
+      "wagyu"
+    ],
+    "price_level": 2,
+    "must_try": "和牛スマッシュバーガー (Wagyu smash burger; Double Cheeseburger)",
+    "branch_notes": "Shinjuku is the flagship (新宿総本店); other Tokyo branches include Shibuya, Hiroo, Azabudai Hills, Asakusa, Tokyu Kabukicho Tower and +FACTORY Komazawa. No reservations.",
+    "evidence": "Official site shogun-burger.com + Tabelog: 1-15-12 Kabukicho, Shinjuku-ku; wagyu smash burger from a 34-year yakiniku house"
+  },
+  {
+    "name": "威斯汀酒店下午茶",
+    "canonical_name": "ウェスティンホテル東京 ザ・ラウンジ",
+    "verified_address": "東京都目黒区三田1-4-1 ウェスティンホテル東京1F",
+    "district": "恵比寿",
+    "latitude": 35.641519,
+    "longitude": 139.715352,
+    "mrt_station": "恵比寿站 JR山手線・東京メトロ日比谷線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "afternoon-tea",
+      "cafe",
+      "dessert"
+    ],
+    "price_level": 4,
+    "must_try": "季節下午茶套餐 (seasonal afternoon tea set with TWG tea)",
+    "branch_notes": "Afternoon tea is served at The Lounge, the 1F lobby lounge under a 10m atrium; a separate yum cha afternoon tea runs at Ryu Ten Mon (2F). Reservation recommended; ~5-12 min walk from Ebisu Station via Yebisu Garden Place.",
+    "evidence": "Marriott official site + TableCheck: The Westin Tokyo, 1-4-1 Mita, Meguro-ku; The Lounge afternoon tea"
+  },
+  {
+    "name": "鶯谷園",
+    "canonical_name": "焼肉 鶯谷園",
+    "verified_address": "東京都台東区根岸1-5-15",
+    "district": "鶯谷",
+    "latitude": 35.722414,
+    "longitude": 139.779349,
+    "mrt_station": "鶯谷站 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "yakiniku",
+      "wagyu"
+    ],
+    "price_level": 4,
+    "must_try": "特上タン塩・特上ランプ (premium tongue and rump, salt-grilled)",
+    "branch_notes": "Reservation required and very hard to get (often 3-4 months ahead); 90-minute seating limit; cash only, no credit cards; founded 1968, reopened after a fire closure.",
+    "evidence": "Tabelog/Tripadvisor: 1-5-15 Negishi, Taito-ku, ¥6,000-7,999, reservation required, 3 min from Uguisudani Station north exit"
+  },
+  {
+    "name": "黑木燒肉",
+    "canonical_name": "東京焼肉 黒木",
+    "verified_address": "東京都新宿区新宿3-23-3 新宿サンビル9F",
+    "district": "新宿",
+    "latitude": 35.692852,
+    "longitude": 139.700675,
+    "mrt_station": "新宿站 JR・東京メトロ丸ノ内線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "yakiniku",
+      "wagyu"
+    ],
+    "price_level": 4,
+    "must_try": "黒毛和牛おまかせコース (chef's choice Kuroge wagyu course, rare cuts)",
+    "branch_notes": "All private rooms with Japan's first projection-mapping yakiniku; 1 min from Shinjuku Station east exit (B13). Reservation recommended; Sunday lunch only.",
+    "evidence": "Ikyu + Tabelog + Hot Pepper: 3-23-3 Shinjuku, Shinjuku Sun Building 9F, Kuroge wagyu rare cuts"
+  },
+  {
+    "name": "Balcony by 6th",
+    "canonical_name": "Balcony by 6th",
+    "verified_address": "東京都港区麻布台1-3-1 麻布台ヒルズタワープラザ3F",
+    "district": "六本木",
+    "latitude": 35.661244,
+    "longitude": 139.740614,
+    "mrt_station": "六本木一丁目站 東京メトロ南北線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "cafe",
+      "italian",
+      "dessert"
+    ],
+    "price_level": 4,
+    "must_try": "6thパンケーキ (6th pancake; also Basque cheesecake and truffle potatoes)",
+    "branch_notes": "Relocated from Yurakucho (6th by Oriental Hotel) to Azabudai Hills, opened 2023-11-24; large terrace. Dinner reservations accepted; cafe/bar is walk-in only, no reservations.",
+    "evidence": "Official site balconyby6th.com + Tabelog: 1-3-1 Azabudai, Minato-ku, Hills Tower Plaza 3F; ¥5,000-6,000"
+  },
+  {
+    "name": "佐藤養助 浅草店",
+    "canonical_name": "佐藤養助 浅草店",
+    "verified_address": "東京都台東区浅草1-30-12 浅草三河屋本店1F",
+    "district": "浅草",
+    "latitude": 35.712,
+    "longitude": 139.796161,
+    "mrt_station": "浅草站 東京メトロ銀座線・都営浅草線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "udon"
+    ],
+    "price_level": 2,
+    "must_try": "稲庭うどん 冷麵 (cold Inaniwa udon; 二味天せいろ with sesame-miso dipping sauce)",
+    "branch_notes": "Asakusa branch opened 2017, near Nakamise/Kaminarimon; other Tokyo branches in Ginza and Hibiya; head shop in Akita, home of Inaniwa udon.",
+    "evidence": "Official site sato-yoske.co.jp + Tabelog: 1-30-12 Asakusa, Taito-ku, ¥1,000-1,999, 4 min from Asakusa Station"
+  },
+  {
+    "name": "入鹿TOKYO",
+    "canonical_name": "入鹿TOKYO 六本木",
+    "verified_address": "東京都港区六本木4-12-12 穂高ビル1F",
+    "district": "六本木",
+    "latitude": 35.664818,
+    "longitude": 139.731662,
+    "mrt_station": "六本木站 東京メトロ日比谷線・都営大江戸線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen"
+    ],
+    "price_level": 2,
+    "must_try": "柚子塩らぁ麺 (Yuzu shio ramen with yuzu butter; also 極ポルチーニ醤油らぁ麺)",
+    "branch_notes": "Michelin Bib Gourmand (2024/2026); original shop in Higashi-Kurume (now takeout only) is a separate location, not a duplicate. Closed Mondays; expect a queue, arrive before opening.",
+    "evidence": "Michelin Guide / Wanderlog / Maduro: 4-12-12 Roppongi, Minato-ku, Bib Gourmand, yuzu shio ramen ~¥1,800-2,000"
+  },
+  {
+    "name": "Ringo",
+    "canonical_name": "RINGO 池袋店",
+    "verified_address": "東京都豊島区南池袋1-28-2 JR池袋駅1F",
+    "district": "池袋",
+    "latitude": 35.731198,
+    "longitude": 139.712675,
+    "mrt_station": "池袋站 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "bakery",
+      "dessert"
+    ],
+    "price_level": 1,
+    "must_try": "焼きたてカスタードアップルパイ (fresh-baked custard apple pie)",
+    "branch_notes": "Takeout-only shop on 1F of JR Ikebukuro Station (east exit, by Parco); 144-layer crust, Hokkaido apples. Other RINGO branches across Tokyo (e.g. Shinjuku, Shibuya, Tokyo Station).",
+    "evidence": "Official site ringo-applepie.com + Tabelog: 1-28-2 Minami-Ikebukuro, Toshima-ku, JR Ikebukuro Station 1F, ~¥500-1,000"
+  },
+  {
+    "name": "牛和鹿",
+    "canonical_name": "炭火焼肉 牛和鹿 本店",
+    "verified_address": "東京都江東区門前仲町2-9-5 あづまビル2F",
+    "district": "門前仲町",
+    "latitude": 35.673183,
+    "longitude": 139.796077,
+    "mrt_station": "門前仲町站 東京メトロ東西線・都営大江戸線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "yakiniku",
+      "wagyu"
+    ],
+    "price_level": 4,
+    "must_try": "近江牛 (A5 Omi wagyu; 生タン unfrozen raw tongue, 上ハラミ)",
+    "branch_notes": "Tabelog Hyakumeiten (Top 100 yakiniku) multiple years; Saturday-only Omi wagyu lunch ~¥1,200 draws a queue. Also a Roppongi branch (牛和鹿六本木店, 7-14-11 Roppongi); former Kasai branch renamed 勝龍苑.",
+    "evidence": "Tabelog + Retty: 2-9-5 Monzen-nakacho, Koto-ku, Azuma Building 2F; Omi wagyu courses ¥6,800/¥8,800, 1 min from Monzen-nakacho Station exit 6"
+  },
+  {
+    "name": "青葉拉麵",
+    "canonical_name": "中華そば 青葉 中野本店",
+    "verified_address": "東京都中野区中野5-58-1 なかのまるひる1F",
+    "district": "中野",
+    "latitude": 35.707978,
+    "longitude": 139.666465,
+    "mrt_station": "中野站 JR中央線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen",
+      "tsukemen"
+    ],
+    "price_level": 1,
+    "must_try": "つけ麺 (tsukemen, double-soup dipping noodles; also 中華そば)",
+    "branch_notes": "Nakano honten (1996), originator of the W double soup (animal + seafood); Michelin Bib Gourmand. ~20 branches including Fuchu, Hikarigaoka IMA and Ikebukuro; ticket-machine ordering, counter-only.",
+    "evidence": "Official site nakano-aoba.jp + Tabelog: 5-58-1 Nakano, Nakano-ku, tsukemen ¥880, 3-5 min from Nakano Station north exit"
+  },
+  {
+    "name": "ease",
+    "canonical_name": "パティスリー イーズ",
+    "verified_address": "東京都中央区日本橋兜町9-1",
+    "district": "日本橋",
+    "latitude": 35.681922,
+    "longitude": 139.777694,
+    "mrt_station": "茅場町站 東京メトロ日比谷線・東西線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "dessert",
+      "cafe",
+      "bakery"
+    ],
+    "price_level": 2,
+    "must_try": "カスタードプリン (custard pudding, eat-in only; also seasonal tarts and Mont Blanc)",
+    "branch_notes": "Patisserie in Nihonbashi Kabutocho, ~10 min walk from Ningyocho Station (the thread's area hint); closed Wednesdays; eat-in seats not reservable, 1-drink minimum, 45-min limit. Sister shop: chocolate & ice-cream store in Kabutocho.",
+    "evidence": "Official site patisserie-ease.com + Tabelog: 9-1 Nihonbashi-Kabutocho, Chuo-ku, custard pudding ¥1,200, 3 min from Kayabacho Station exit 11"
+  }
+]

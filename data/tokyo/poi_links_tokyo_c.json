@@ -1,0 +1,235 @@
+[
+  {
+    "name": "銀座篝",
+    "canonical_name": "銀座 篝 本店",
+    "verified_address": "東京都中央区銀座6-4-12 1F",
+    "district": "銀座",
+    "latitude": 35.6710939,
+    "longitude": 139.7611367,
+    "mrt_station": "銀座駅 銀座線・丸ノ内線・日比谷線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen",
+      "tsukemen"
+    ],
+    "price_level": 2,
+    "must_try": "鶏白湯SOBA（濃厚鶏白湯そば）",
+    "branch_notes": "本店。旧住所の銀座4-4-1から現住所へ移転。予約不可。系列に銀座風見・銀座嚆矢などがあったが現住所は本店のみ。",
+    "evidence": "Tabelog: 銀座 篝 本店, 東京都中央区銀座6-4-12 1F, 03-6263-8900"
+  },
+  {
+    "name": "無敵家",
+    "canonical_name": "麺創房 無敵家",
+    "verified_address": "東京都豊島区南池袋1-17-1 崎本ビル 1F",
+    "district": "池袋",
+    "latitude": 35.7269178,
+    "longitude": 139.7115753,
+    "mrt_station": "池袋駅 JR山手線・西武池袋線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen",
+      "tsukemen"
+    ],
+    "price_level": 2,
+    "must_try": "無敵家らーめん（ニクタマ）／本丸麺（豚骨）",
+    "branch_notes": "池袋の旗艦店1店舗のみ。予約不可。営業10:30～翌4:00、無休。",
+    "evidence": "Tabelog: 無敵家, 東京都豊島区南池袋1-17-1 崎本ビル, 03-3982-7656"
+  },
+  {
+    "name": "一蘭",
+    "canonical_name": "一蘭 渋谷店",
+    "verified_address": "東京都渋谷区神南1-22-7 岩本ビルB1F",
+    "district": "渋谷",
+    "latitude": 35.6611111,
+    "longitude": 139.7010622,
+    "mrt_station": "渋谷駅 JR・東京メトロ",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen"
+    ],
+    "price_level": 2,
+    "must_try": "天然とんこつラーメン（味集中カウンター）",
+    "branch_notes": "チェーンのため支店未指定の場合は渋谷店を代表店とした。24時間営業。都内他店舗：原宿店、渋谷スペイン坂店、新宿中央東口店ほか多数。",
+    "evidence": "一蘭公式サイト 渋谷店: 東京都渋谷区神南1-22-7 岩本ビルB1F（NAVITIME緯度経度 35.661135,139.700988 と一致）"
+  },
+  {
+    "name": "金色不如歸",
+    "canonical_name": "SOBA HOUSE 金色不如帰 新宿御苑本店",
+    "verified_address": "東京都新宿区新宿2-4-1 第22宮庭マンション1F 105",
+    "district": "新宿",
+    "latitude": 35.6887628,
+    "longitude": 139.7082389,
+    "mrt_station": "新宿御苑前駅 丸ノ内線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen"
+    ],
+    "price_level": 2,
+    "must_try": "真鯛と蛤の塩そば／醤油そば（白トリュフオイル）",
+    "branch_notes": "幡ヶ谷2-47-12から移転。整理券制で売り切れ次第終了。営業時間・定休日は変動あり（Tabelog: 火～土営業、月・日定休）。木曜昼のみ2ndブランド「裏不如帰」（煮干しそば）。",
+    "evidence": "Tabelog: SOBA HOUSE 金色不如帰 新宿御苑本店, 東京都新宿区新宿2-4-1 第22宮庭マンション1F, 03-5315-4733"
+  },
+  {
+    "name": "淺草今半",
+    "canonical_name": "浅草今半 国際通り本店",
+    "verified_address": "東京都台東区西浅草3-1-12",
+    "district": "浅草",
+    "latitude": 35.7139875,
+    "longitude": 139.7921339,
+    "mrt_station": "浅草駅 つくばエクスプレス（A2出口徒歩0分）",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "sukiyaki",
+      "shabu-shabu",
+      "wagyu"
+    ],
+    "price_level": 4,
+    "must_try": "すき焼き（黒毛和牛）",
+    "branch_notes": "人形町今半とは別会社・別店舗（重複ではない）。浅草の「今半」3軒（浅草今半、今半本店、今半別館）は全て別会社。佃煮売場併設。ランチ11:30～14:00。",
+    "evidence": "Tabelog: 浅草今半 国際通り本店, 東京都台東区西浅草3-1-12, 03-3841-1114"
+  },
+  {
+    "name": "人形町今半",
+    "canonical_name": "人形町今半 本店",
+    "verified_address": "東京都中央区日本橋人形町2-9-12",
+    "district": "人形町",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "人形町駅 日比谷線・都営浅草線",
+    "poi_status": "address_only",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "sukiyaki",
+      "teppanyaki",
+      "steak",
+      "wagyu"
+    ],
+    "price_level": 4,
+    "must_try": "すき焼き（人形町今半黒毛和牛）",
+    "branch_notes": "淺草今半とは別会社・別店舗（重複ではない）。1階は鉄板焼ステーキ喜扇亭、2階はすき焼・しゃぶしゃぶ。予約必須。他店舗：東京ガーデンテラス紀尾井町店など。ジオコーダーがこの住所を区レベルまでしか解決できず座標は未取得のため address_only。",
+    "evidence": "Tabelog: 人形町今半 本店, 東京都中央区日本橋人形町2-9-12, 03-3666-7006（座標はジオコーダーで解決不可）"
+  },
+  {
+    "name": "Shake Shack",
+    "canonical_name": "シェイク シャック 外苑いちょう並木店",
+    "verified_address": "東京都港区北青山2-1-15",
+    "district": "外苑前",
+    "latitude": 35.6732483,
+    "longitude": 139.7195828,
+    "mrt_station": "外苑前駅 銀座線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "burger",
+      "american",
+      "shakes",
+      "fries"
+    ],
+    "price_level": 2,
+    "must_try": "シャックバーガー（ShackBurger）",
+    "branch_notes": "日本1号店（2015年開業）。TimeOutのページには「閉店」とあるが、公式サイトに掲載され2026年の複数記事が通常営業中と報じており閉店説は再開発に伴う噂と判断。神宮外苑再開発で将来の移転・休業の可能性あり。都内他店舗：新宿、渋谷、六本木、東京ドームシティほか。",
+    "evidence": "Shake Shack公式サイト 外苑いちょう並木店: 東京都港区北青山2-1-15, 03-6455-5409"
+  },
+  {
+    "name": "色川",
+    "canonical_name": "雷門 うなぎ 色川",
+    "verified_address": "東京都台東区雷門2-6-11",
+    "district": "浅草",
+    "latitude": 35.7092661,
+    "longitude": 139.7951233,
+    "mrt_station": "浅草駅 都営浅草線（A1出口徒歩1分）",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "unagi"
+    ],
+    "price_level": 3,
+    "must_try": "鰻重（ふつう¥3,000／たっぷり¥4,100）",
+    "branch_notes": "1861年創業の老舗。昼営業のみ11:30～14:00、売り切れ次第終了。日曜・祝日定休。予約不可。ミシュラン・ビブグルマン掲載店。",
+    "evidence": "浅草なび: 雷門 うなぎ 色川, 東京都台東区雷門2-6-11, 03-3844-1187"
+  },
+  {
+    "name": "いづも",
+    "canonical_name": "うなぎの蒲の穂焼 牛タン 焼鳥 馬刺し いづも 浅草横町",
+    "verified_address": "東京都台東区浅草2-6-7 東京楽天地浅草ビル 4F",
+    "district": "浅草",
+    "latitude": 35.7141764,
+    "longitude": 139.7936617,
+    "mrt_station": "浅草駅 つくばエクスプレス（徒歩1分）",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "unagi",
+      "izakaya",
+      "yakitori"
+    ],
+    "price_level": 2,
+    "must_try": "鰻玉丼（約1kgの巨大鰻玉丼）／蒲の穂焼き",
+    "branch_notes": "浅草横町フードホール内の店舗。発祥は池袋の「いづも」（1kg鰻玉丼で話題）。営業12:00～23:00。",
+    "evidence": "Retty: うなぎの蒲の穂焼 牛タン 焼鳥 馬刺し いづも 浅草横町, 東京都台東区浅草2-6-7 東京楽天地浅草ビル4F, 03-5830-7440"
+  },
+  {
+    "name": "川豐",
+    "canonical_name": "川豊 本店",
+    "verified_address": "千葉県成田市仲町386",
+    "district": "成田",
+    "latitude": 35.7833958,
+    "longitude": 140.3167344,
+    "mrt_station": "成田駅 JR成田線・京成本線（徒歩約11分）",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "unagi"
+    ],
+    "price_level": 3,
+    "must_try": "うな重（秘伝のたれ）",
+    "branch_notes": "注意：都内ではなく千葉県成田市の成田山表参道にある店（成田空港エリアからの日帰り向き）。1910年創業、建物は登録有形文化財。別館・西口館・総門前店も成田市内。整理券・LINE通知での待ち管理あり。営業10:00～17:00、無休。",
+    "evidence": "Wikipedia 川豊: 千葉県成田市仲町386, 北緯35.783389 東経140.316722；千葉県公式観光サイト ちば観光ナビ"
+  },
+  {
+    "name": "HARBS",
+    "canonical_name": "ハーブス ルミネエスト新宿店",
+    "verified_address": "東京都新宿区新宿3-38-1 ルミネエスト新宿 B2F",
+    "district": "新宿",
+    "latitude": 35.6913878,
+    "longitude": 139.7011444,
+    "mrt_station": "新宿駅 JR・東京メトロ",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "dessert",
+      "cafe",
+      "cake"
+    ],
+    "price_level": 2,
+    "must_try": "フレッシュフルーツケーキ／ミルクレープ",
+    "branch_notes": "チェーンのため支店未指定の場合はルミネエスト新宿店を代表店とした。予約不可。都内他店舗：渋谷ヒカリエ、六本木ヒルズ、丸ビル、銀座三越、麻布台ヒルズ、アトレ吉祥寺ほか。",
+    "evidence": "Tabelog: ハーブス ルミネエスト新宿店, 東京都新宿区新宿3-38-1 ルミネエスト新宿店B2F, 03-5366-1538"
+  },
+  {
+    "name": "果實園",
+    "canonical_name": "果実園リーベル 目黒店",
+    "verified_address": "東京都目黒区目黒1-3-16 プレジデント目黒ハイツ2F",
+    "district": "目黒",
+    "latitude": 35.6349058,
+    "longitude": 139.7135008,
+    "mrt_station": "目黒駅 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "dessert",
+      "cafe",
+      "fruit-parlor",
+      "parfait"
+    ],
+    "price_level": 2,
+    "must_try": "フルーツパフェ／あまおうズコット（レアチーズズコット）",
+    "branch_notes": "旗艦の目黒店を代表店とした。新宿店（渋谷区代々木2-7-7）は閉店済み（Tabelog・レッツエンジョイ東京で閉店確認）。営業7:30～20:00（金・土～21:00）、無休。",
+    "evidence": "果実園公式サイト 店舗情報: 果実園リーベル 目黒店, 東京都目黒区目黒1-3-16 プレジデント目黒ハイツ2階, 03-6417-4740"
+  }
+]

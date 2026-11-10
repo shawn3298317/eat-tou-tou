@@ -1,0 +1,234 @@
+[
+  {
+    "name": "吉法師拉麵",
+    "canonical_name": "吉法師",
+    "verified_address": "東京都港区芝1-11-2",
+    "district": "浜松町",
+    "latitude": 35.650992,
+    "longitude": 139.754307,
+    "mrt_station": "浜松町駅 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "ramen",
+      "tsukemen"
+    ],
+    "price_level": 2,
+    "must_try": "醤油つけ麺",
+    "branch_notes": "Separate ramen shop of the same name in Fussa (武蔵野台2-17-56); a soba shop of the same name in Meguro is permanently closed. This row is the central-Tokyo Shiba ramen shop.",
+    "evidence": "NAVITIME: 吉法師, 東京都港区芝1-11-2, 35.650992,139.754307, ramen, lunch 11:30-15:00"
+  },
+  {
+    "name": "鴨拉麵上野",
+    "canonical_name": "らーめん 鴨to葱 上野御徒町本店",
+    "verified_address": "東京都台東区上野6-4-15",
+    "district": "上野",
+    "latitude": 35.708493,
+    "longitude": 139.775251,
+    "mrt_station": "御徒町駅 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": "鴨to蔥",
+    "cuisine_tags": [
+      "ramen"
+    ],
+    "price_level": 2,
+    "must_try": "鴨らーめん",
+    "branch_notes": "Same venue as 鴨to蔥 (slice-b verified). Also a nearby 新館 (annex) and an Asakusa branch; long queues, no reservation system at the main shop.",
+    "evidence": "Official site via SUSURU WEB / Tabelog: らーめん 鴨to葱, 東京都台東区上野6-4-15, 35.708493,139.775251; confirms it is the same 上野御徒町本店 as 鴨to蔥"
+  },
+  {
+    "name": "神樂坂茶寮",
+    "canonical_name": "神楽坂 茶寮 本店",
+    "verified_address": "東京都新宿区神楽坂5-9",
+    "district": "神楽坂",
+    "latitude": 35.702323,
+    "longitude": 139.738823,
+    "mrt_station": "牛込神楽坂駅 都営大江戸線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "cafe",
+      "dessert",
+      "matcha"
+    ],
+    "price_level": 2,
+    "must_try": "生搾りモンブラン「碧羅」",
+    "branch_notes": "Moved and reopened in 2022 from the old kominka site; older listings showing 神楽坂3-1 / 1-9 are the old address, do not use. Other branch: Shibuya Scramble Square 14F; the Shibuya Mark City branch is permanently closed. No reservations; weekend waits can exceed 1 hour (LINE notification).",
+    "evidence": "Official site saryo.jp / Retty: 神楽坂 茶寮 本店, 東京都新宿区神楽坂5-9, 35.702323,139.738823"
+  },
+  {
+    "name": "谷中福丸饅頭",
+    "canonical_name": "谷中福丸饅頭",
+    "verified_address": "東京都台東区谷中3-7-8",
+    "district": "谷中",
+    "latitude": 35.72602,
+    "longitude": 139.764421,
+    "mrt_station": "日暮里駅 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "dessert",
+      "wagashi",
+      "manju"
+    ],
+    "price_level": 1,
+    "must_try": "炸饅頭",
+    "branch_notes": "",
+    "evidence": "Google Maps listing: Yanaka Fukumaru Manju, 3-7-8 Yanaka, Taito-ku, 35.72602,139.764421, 11:00-17:00 daily"
+  },
+  {
+    "name": "ローストビーフ大野",
+    "canonical_name": "ローストビーフ大野 秋葉原店",
+    "verified_address": "東京都千代田区外神田1-2-3 土屋ビルB1F",
+    "district": "秋葉原",
+    "latitude": 35.69847,
+    "longitude": 139.770609,
+    "mrt_station": "秋葉原駅 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "roast-beef",
+      "donburi",
+      "wagyu"
+    ],
+    "price_level": 2,
+    "must_try": "黒毛和牛ローストビーフ丼",
+    "branch_notes": "Other branches: 原宿店 (神宮前4-31-10 YMスクウェアB1F), 原宿竹下口店 (神宮前1-8-8 COXY188ビルB1F), 池袋店 (東池袋1-13-12); 秋葉原UDX店 due to open 2026-12-10 (外神田4-14-1 秋葉原UDX 3F).",
+    "evidence": "Official site roastbeef-ohno.com / Mapion: ローストビーフ大野, 東京都千代田区外神田1-2-3 土屋ビルB1, 35.69847,139.770609"
+  },
+  {
+    "name": "敘敘苑",
+    "canonical_name": "叙々苑 新宿中央東口店",
+    "verified_address": "東京都新宿区新宿3-27-10 武蔵野ビル7F",
+    "district": "新宿",
+    "latitude": 35.691265,
+    "longitude": 139.701938,
+    "mrt_station": "新宿三丁目駅 東京メトロ丸ノ内線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "yakiniku",
+      "wagyu"
+    ],
+    "price_level": 4,
+    "must_try": "上ネギタン塩焼",
+    "branch_notes": "Skytree branch: 叙々苑 東京スカイツリータウン・ソラマチ店, 東京都墨田区押上1-1-2 ソラマチ30F. Other Shinjuku branches: 新宿歌舞伎町店 (歌舞伎町1-18-8 モナミビル9F), 游玄亭新宿店 (歌舞伎町1-10-7), 東京オペラシティ店 (西新宿3-20-2 53F). Price level 4 reflects dinner (~¥10,000-15,000); lunch sets ~¥4,000-5,000.",
+    "evidence": "NAVITIME / official jojoen.co.jp: 叙々苑 新宿中央東口店, 東京都新宿区新宿3-27-10 武蔵野ビル7F, 35.691265,139.701938"
+  },
+  {
+    "name": "Yoroniku",
+    "canonical_name": "Yoroniku",
+    "verified_address": "東京都港区南青山6-6-22 ルナロッサB1F",
+    "district": "表参道",
+    "latitude": 35.660226,
+    "longitude": 139.7176,
+    "mrt_station": "表参道駅 東京メトロ銀座線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "yakiniku",
+      "wagyu",
+      "omakase"
+    ],
+    "price_level": 4,
+    "must_try": "シャトーブリアンのロゼカツサンド",
+    "branch_notes": "Sister shops: 蕃 YORONIKU 恵比寿 (GEMS恵比寿8F, reservation-only, staff grill every cut tableside) and Yoroniku Tokyo Azabudai Hills (麻布台1-3-1 3F). Reservation required; dinner only (17:00-24:00).",
+    "evidence": "Tabelog: Yoroniku, 東京都港区南青山6-6-22 ルナロッサB1F, 35.660226,139.7176"
+  },
+  {
+    "name": "華林",
+    "canonical_name": "鮨 華林",
+    "verified_address": "東京都墨田区緑1-20-6 1F",
+    "district": "両国",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "両国駅 都営大江戸線",
+    "poi_status": "address_only",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "sushi",
+      "omakase"
+    ],
+    "price_level": 4,
+    "must_try": "華林巻き",
+    "branch_notes": "Not the Cantonese restaurant 華林 in Oimachi (品川区東大井5-3-13) - different restaurant sharing the kanji name. Single seating 19:15, 10 seats, 18-course omakase only (¥15,000).",
+    "evidence": "PR Times (2024-05-23) / Tabelog Magazine: 鮨 華林 opened 2024-05-23 at 東京都墨田区緑1-20-6 1F, 18-course omakase ¥15,000; no venue-level coordinates found, so address_only"
+  },
+  {
+    "name": "Freshness Burger",
+    "canonical_name": "フレッシュネスバーガー 代々木店",
+    "verified_address": "東京都渋谷区千駄ヶ谷5-24-3-2",
+    "district": "代々木",
+    "latitude": 35.684312,
+    "longitude": 139.703168,
+    "mrt_station": "代々木駅 JR山手線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "burger",
+      "fast-food"
+    ],
+    "price_level": 2,
+    "must_try": "鹽味檸檬雞腿堡",
+    "branch_notes": "Nationwide chain (73 Tokyo branches per NAVITIME); other central branches include 池袋東口店, 新宿6丁目店, 門前仲町店, 三軒茶屋店. Some listings shorten the address to 千駄ヶ谷5-24-3.",
+    "evidence": "Official freshnessburger.co.jp listing: フレッシュネスバーガー 代々木店, 千駄ヶ谷5-24-3-2, 35.684312,139.703168"
+  },
+  {
+    "name": "萬龍 東京ドーム店",
+    "canonical_name": "新御茶ノ水萬龍 東京ドーム店",
+    "verified_address": "東京都文京区後楽1-3-61 黄色いビル2F",
+    "district": "東京ドームシティ",
+    "latitude": 35.704699,
+    "longitude": 139.753428,
+    "mrt_station": "後楽園駅 東京メトロ丸ノ内線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "chinese",
+      "fried-rice",
+      "machi-chuka"
+    ],
+    "price_level": 2,
+    "must_try": "炒飯",
+    "branch_notes": "2nd branch of 新御茶ノ水萬龍 (main shop in Shin-Ochanomizu/Kanda). Inside Tokyo Dome food hall FOOD STADIUM TOKYO; hours 11:00-23:00. Coordinates are the 1-3-61 Tokyo Dome complex pin.",
+    "evidence": "PR Times / Mapion news: 新御茶ノ水萬龍 東京ドーム店 opened 2024-06-24 at 東京都文京区後楽1-3-61 黄色いビル2F; address confirmed by the supplied Maps redirect"
+  },
+  {
+    "name": "天丼てんや",
+    "canonical_name": "天丼てんや 銀座店",
+    "verified_address": "東京都中央区銀座3-9-4 草野ビル1F",
+    "district": "銀座",
+    "latitude": 35.671766,
+    "longitude": 139.768086,
+    "mrt_station": "東銀座駅 東京メトロ日比谷線",
+    "poi_status": "matched",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "tendon",
+      "tempura"
+    ],
+    "price_level": 1,
+    "must_try": "天丼",
+    "branch_notes": "Chain, 73 Tokyo branches; other central branches: 八重洲店 (八重洲2-1), 秋葉原店 (外神田4-5-4), 御徒町店 (上野5-27-1), 人形町店, サンシャイン店 (池袋).",
+    "evidence": "Official tenya.co.jp: 天丼てんや 銀座店, 銀座3-9-4, 35.671766,139.768086"
+  },
+  {
+    "name": "銀座木村家",
+    "canonical_name": "銀座木村家",
+    "verified_address": "東京都中央区銀座4-5-7",
+    "district": "銀座",
+    "latitude": null,
+    "longitude": null,
+    "mrt_station": "銀座駅 東京メトロ銀座線",
+    "poi_status": "address_only",
+    "duplicate_of": "",
+    "cuisine_tags": [
+      "bakery",
+      "anpan"
+    ],
+    "price_level": 1,
+    "must_try": "酒種桜あんぱん",
+    "branch_notes": "Founded 1869, Japan's oldest bakery; 1F bakery, 2F cafe, 3F grill, 4F restaurant. Do not confuse with the Mitsukoshi Ginza branch (銀座4-6-16 B2F) or other Kimuraya noren-wake shops (e.g. 築地木村家).",
+    "evidence": "Mapion / National Tax Agency registry: 銀座木村家 / 木村屋總本店, 東京都中央区銀座4-5-7; no venue-level coordinates found for the main store, so address_only"
+  }
+]

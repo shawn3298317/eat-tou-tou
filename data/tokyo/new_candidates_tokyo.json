@@ -1,0 +1,732 @@
+[
+  {
+    "name": "阿夫利拉麵",
+    "name_en": "AFURI",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 23,
+    "source_comment_likes": 23,
+    "list_size": null,
+    "notes": "柚子拉麵; also in 221-like list"
+  },
+  {
+    "name": "Shogun Burger",
+    "name_en": "Shogun Burger",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 10,
+    "source_comment_likes": 10,
+    "list_size": null,
+    "notes": ""
+  },
+  {
+    "name": "威斯汀酒店下午茶",
+    "name_en": "The Westin Tokyo afternoon tea",
+    "area_hint": "恵比寿",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3,
+    "list_size": null,
+    "notes": "hotel afternoon tea"
+  },
+  {
+    "name": "鶯谷園",
+    "name_en": "Uguisuen",
+    "area_hint": "鶯谷",
+    "district_hint": "",
+    "mentions": 16,
+    "source_comment_likes": 16,
+    "list_size": null,
+    "notes": "yakiniku; reservation needed"
+  },
+  {
+    "name": "黑木燒肉",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": ""
+  },
+  {
+    "name": "Balcony by 6th",
+    "name_en": "Balcony by 6th",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2,
+    "list_size": null,
+    "notes": "cafe"
+  },
+  {
+    "name": "佐藤養助 浅草店",
+    "name_en": "Sato Yosuke Asakusa",
+    "area_hint": "浅草",
+    "district_hint": "",
+    "mentions": 423,
+    "source_comment_likes": 423,
+    "list_size": null,
+    "notes": "冷麵 (cold noodles); also mentioned p3-48 (2 likes)"
+  },
+  {
+    "name": "入鹿TOKYO",
+    "name_en": "Iruka Tokyo",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 12,
+    "source_comment_likes": 12,
+    "list_size": null,
+    "notes": "拉麵, 柚子鹽; also p5-20"
+  },
+  {
+    "name": "Ringo",
+    "name_en": "RINGO",
+    "area_hint": "池袋",
+    "district_hint": "",
+    "mentions": 23,
+    "source_comment_likes": 23,
+    "list_size": null,
+    "notes": "蘋果派 (apple pie), Ikebukuro"
+  },
+  {
+    "name": "牛和鹿",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 74,
+    "source_comment_likes": 74,
+    "list_size": null,
+    "notes": "近江牛 wagyu; also p5-48 (3 likes)"
+  },
+  {
+    "name": "青葉拉麵",
+    "name_en": "Aoba Ramen",
+    "area_hint": "中野",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1,
+    "list_size": null,
+    "notes": "中野站, 沾麵 (tsukemen)"
+  },
+  {
+    "name": "ease",
+    "name_en": "ease",
+    "area_hint": "人形町",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6,
+    "list_size": null,
+    "notes": "甜點, 布丁; shared 6-like comment with SR coffee + bank"
+  },
+  {
+    "name": "SR coffee",
+    "name_en": "SR coffee",
+    "area_hint": "人形町",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6,
+    "list_size": null,
+    "notes": "巴斯克, 苦焦糖拿鐵; shared 6-like comment"
+  },
+  {
+    "name": "bank",
+    "name_en": "bank",
+    "area_hint": "人形町",
+    "district_hint": "",
+    "mentions": 6,
+    "source_comment_likes": 6,
+    "list_size": null,
+    "notes": "麵包; shared 6-like comment"
+  },
+  {
+    "name": "SATO燒肉",
+    "name_en": "SATO Yakiniku",
+    "area_hint": "阿佐谷",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "also p4-11"
+  },
+  {
+    "name": "五感",
+    "name_en": "Gokan",
+    "area_hint": "池袋",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "拉麵; also p4-11"
+  },
+  {
+    "name": "肉屋橫町",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 燒肉"
+  },
+  {
+    "name": "肉屋台所",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 燒肉"
+  },
+  {
+    "name": "一心たん助",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 燒肉"
+  },
+  {
+    "name": "六歌仙",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 燒肉"
+  },
+  {
+    "name": "房家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 燒肉"
+  },
+  {
+    "name": "29 terrace",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 燒肉"
+  },
+  {
+    "name": "山家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 豬排"
+  },
+  {
+    "name": "鴨to蔥",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 拉麵"
+  },
+  {
+    "name": "銀座篝",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 拉麵"
+  },
+  {
+    "name": "無敵家",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 拉麵"
+  },
+  {
+    "name": "一蘭",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 拉麵"
+  },
+  {
+    "name": "金色不如歸",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 拉麵"
+  },
+  {
+    "name": "淺草今半",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 壽喜燒"
+  },
+  {
+    "name": "人形町今半",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 壽喜燒"
+  },
+  {
+    "name": "Shake Shack",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 漢堡"
+  },
+  {
+    "name": "色川",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 鰻魚飯"
+  },
+  {
+    "name": "いづも",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 鰻魚飯"
+  },
+  {
+    "name": "川豐",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 鰻魚飯"
+  },
+  {
+    "name": "HARBS",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 蛋糕"
+  },
+  {
+    "name": "果實園",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 蛋糕"
+  },
+  {
+    "name": "EDW",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 蛋包飯"
+  },
+  {
+    "name": "Center Beef",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 牛肉飯"
+  },
+  {
+    "name": "牛舌檸檬",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 牛舌; p6-28 maps link confirms Nishishinjuku branch (YSビル B1F, 7-16-12 Nishishinjuku); p6-43/44 warn against the 西新宿店 (cockroaches); also a negative mention p5-49 (too hard, 1hr wait)"
+  },
+  {
+    "name": "利久",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 牛舌"
+  },
+  {
+    "name": "築地虎杖",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 海鮮丼"
+  },
+  {
+    "name": "鮨國",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 海鮮丼"
+  },
+  {
+    "name": "麵散",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 烏龍麵"
+  },
+  {
+    "name": "山下本氣",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 221,
+    "source_comment_likes": 221,
+    "list_size": 29,
+    "notes": "from 221-like list comment, category 烏龍麵"
+  },
+  {
+    "name": "海老丸拉麵",
+    "name_en": "Ebi Maru Ramen",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 11,
+    "source_comment_likes": 11,
+    "list_size": null,
+    "notes": "龍蝦拉麵; also p5-0 (1 like), p4-35 (1 like)"
+  },
+  {
+    "name": "ぴょんぴょん舎",
+    "name_en": "Pyong Pyong Sha",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "盛岡冷麵"
+  },
+  {
+    "name": "極味屋",
+    "name_en": "Kiwamiya",
+    "area_hint": "東京車站",
+    "district_hint": "",
+    "mentions": 62,
+    "source_comment_likes": 62,
+    "list_size": null,
+    "notes": "漢堡排 (hamburg steak), teppanyaki-style; 澀谷/丸之內 branches; also p5-22 (5 likes)"
+  },
+  {
+    "name": "I'm donut?",
+    "name_en": "I'm donut?",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "donuts"
+  },
+  {
+    "name": "吉法師拉麵",
+    "name_en": "Kippoushi Ramen",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": ""
+  },
+  {
+    "name": "鴨拉麵上野",
+    "name_en": "",
+    "area_hint": "上野",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "possibly 鴨to蔥 Ueno-area branch; verify, do not create a phantom venue"
+  },
+  {
+    "name": "神樂坂茶寮",
+    "name_en": "Kagurazaka Saryo",
+    "area_hint": "神樂坂",
+    "district_hint": "",
+    "mentions": 2,
+    "source_comment_likes": 2,
+    "list_size": null,
+    "notes": ""
+  },
+  {
+    "name": "谷中福丸饅頭",
+    "name_en": "Yanaka Fukumaru Manju",
+    "area_hint": "谷中",
+    "district_hint": "",
+    "mentions": 320,
+    "source_comment_likes": 320,
+    "list_size": null,
+    "notes": "炸饅頭 (fried manju), near 日暮里"
+  },
+  {
+    "name": "ローストビーフ大野",
+    "name_en": "Roast Beef Ohno",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "烤牛肉飯, multiple branches"
+  },
+  {
+    "name": "敘敘苑",
+    "name_en": "Jojoen",
+    "area_hint": "新宿",
+    "district_hint": "",
+    "mentions": 48,
+    "source_comment_likes": 48,
+    "list_size": null,
+    "notes": "燒肉; 新宿店 + 晴空塔店 (p2-1), one row with branch notes"
+  },
+  {
+    "name": "Yoroniku",
+    "name_en": "Yoroniku",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1,
+    "list_size": null,
+    "notes": "燒肉, 全程專人代烤"
+  },
+  {
+    "name": "華林",
+    "name_en": "Hualin",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "omakase; via linked Threads post"
+  },
+  {
+    "name": "Freshness Burger",
+    "name_en": "Freshness Burger",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1,
+    "list_size": null,
+    "notes": "chain; 鹽味檸檬雞腿堡"
+  },
+  {
+    "name": "萬龍 東京ドーム店",
+    "name_en": "Banryu Tokyo Dome",
+    "area_hint": "東京ドームシティ",
+    "district_hint": "",
+    "mentions": 1,
+    "source_comment_likes": 1,
+    "list_size": null,
+    "notes": "from p3-5 maps link: Shin-Ochanomizu Banryu Tokyo Dome Store, Yellow Building 2F, 1-3-61 Koraku, Bunkyo; Chinese restaurant, 炒飯 (fried rice)"
+  },
+  {
+    "name": "天丼てんや",
+    "name_en": "Tendon Tenya",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 9,
+    "source_comment_likes": 9,
+    "list_size": null,
+    "notes": "天丼 chain"
+  },
+  {
+    "name": "銀座木村家",
+    "name_en": "Ginza Kimuraya",
+    "area_hint": "銀座",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "紅豆麵包 (anpan)"
+  },
+  {
+    "name": "大多福",
+    "name_en": "Ootafuku",
+    "area_hint": "浅草",
+    "district_hint": "",
+    "mentions": 3,
+    "source_comment_likes": 3,
+    "list_size": null,
+    "notes": "關東煮老店"
+  },
+  {
+    "name": "ics TEA",
+    "name_en": "ics TEA",
+    "area_hint": "代代木公園",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5,
+    "list_size": null,
+    "notes": "紅茶專賣店; shared 5-like comment with Nata de Cristiano"
+  },
+  {
+    "name": "Nata de Cristiano",
+    "name_en": "Nata de Cristiano",
+    "area_hint": "代代木公園",
+    "district_hint": "",
+    "mentions": 5,
+    "source_comment_likes": 5,
+    "list_size": null,
+    "notes": "蛋塔; shared 5-like comment with ics TEA"
+  },
+  {
+    "name": "yellow蛋包飯",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4,
+    "list_size": null,
+    "notes": "蛋包飯; shop name may literally be 'yellow', verify"
+  },
+  {
+    "name": "雞繁",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": ""
+  },
+  {
+    "name": "Sushi Yoshikawa Ginza",
+    "name_en": "Sushi Yoshikawa Ginza",
+    "area_hint": "銀座",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": ""
+  },
+  {
+    "name": "Think麵包",
+    "name_en": "",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "麵包; verify shop exists under this name"
+  },
+  {
+    "name": "白洋亭辣味咖喱專賣店",
+    "name_en": "Hakuyotei",
+    "area_hint": "",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "辣味咖喱"
+  },
+  {
+    "name": "Mlesna Tea",
+    "name_en": "Mlesna Tea",
+    "area_hint": "代代木上原",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4,
+    "list_size": 3,
+    "notes": "from p6-34 maps link 1: 甜點+紅茶; Ceylon tea shop, J'sビル代々木大山 1F, 46-10 Oyamacho, Shibuya; shared 4-like comment, 3 places"
+  },
+  {
+    "name": "Chateraise premium YATSUDOKI",
+    "name_en": "Chateraise premium YATSUDOKI",
+    "area_hint": "阿佐谷",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4,
+    "list_size": 3,
+    "notes": "from p6-34 maps link 2: 平價甜點, 草莓蛋糕, 連鎖店; ビーンズてくてく 3-58-1 Asagayaminami, Suginami; shared 4-like comment, 3 places"
+  },
+  {
+    "name": "燒肉JIN TOKYO",
+    "name_en": "Yakiniku JIN TOKYO",
+    "area_hint": "東中野",
+    "district_hint": "",
+    "mentions": 4,
+    "source_comment_likes": 4,
+    "list_size": 3,
+    "notes": "from p6-34 maps link 3: 燒肉, 要訂位; Higashinakano 3-1-1 3F, Nakano; shared 4-like comment, 3 places"
+  },
+  {
+    "name": "豬排丼屋瑞兆",
+    "name_en": "",
+    "area_hint": "澀谷",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "from p3-26 maps link: 澀谷附近; パピエビル 41-26 Udagawacho, Shibuya"
+  },
+  {
+    "name": "Japanese Steak Bowl & Beef Curry",
+    "name_en": "Japanese Steak Bowl & Beef Curry",
+    "area_hint": "神田",
+    "district_hint": "",
+    "mentions": 0,
+    "source_comment_likes": 0,
+    "list_size": null,
+    "notes": "from p2-27 maps link only; きりやビル 1F, 2-12 Kanda Sakumacho, Chiyoda; verify real shop name"
+  }
+]

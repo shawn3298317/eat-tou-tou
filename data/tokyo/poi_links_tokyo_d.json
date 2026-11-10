@@ -1,0 +1,235 @@
+[
+  {
+    "name": "EDW",
+    "canonical_name": "EDW Yellow 渋谷",
+    "verified_address": "東京都渋谷区宇田川町26-5 育真ビル B1F",
+    "district": "渋谷",
+    "latitude": 35.6599944,
+    "longitude": 139.69884,
+    "mrt_station": "渋谷站 JR山手線・東京メトロ銀座線・半蔵門線・副都心線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "omurice",
+      "yoshoku",
+      "cafe",
+      "dessert"
+    ],
+    "price_level": 2,
+    "must_try": "ダブルチーズハンバーグオムライス (Double Cheese Hamburg Omurice)",
+    "branch_notes": "Espresso D Works lineage; rebranded as EDW Yellow Shibuya in Sep 2023; also a Shichirigahama branch (opened May 2024). Long queues, arrive before opening; signature dish limited to 50 servings daily. Separate candidate 'yellow蛋包飯' in the full list may refer to this same EDW Yellow omurice, but that is unconfirmed, so it is not marked a duplicate here.",
+    "evidence": "Novacircle/Google Maps: EDW Yellow Shibuya, 26-5 Udagawacho, Shibuya-ku, 150-0042; omurice ¥2,000-3,000"
+  },
+  {
+    "name": "Center Beef",
+    "canonical_name": "ステーキライスとカレーの店 センタービーフ 渋谷店",
+    "verified_address": "東京都渋谷区渋谷3-7-7 第6矢木ビル 1F",
+    "district": "渋谷",
+    "latitude": 35.6575944,
+    "longitude": 139.7045206,
+    "mrt_station": "渋谷站 JR山手線・東京メトロ銀座線・半蔵門線・副都心線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "steak-rice",
+      "curry"
+    ],
+    "price_level": 2,
+    "must_try": "名物ステーキライス (famous steak rice with garlic butter rice)",
+    "branch_notes": "Flagship in Yokohama Kannai; other Tokyo branches include Nishi-Shinjuku, Takadanobaba and Dogenzaka. Shibuya shop moved from Miyamasuzaka to 3-7-7 Shibuya. Separate candidate 'Japanese Steak Bowl & Beef Curry' in the full list is the Kanda branch (2-12 Kanda Sakumacho), same brand but a different branch, not a duplicate.",
+    "evidence": "SpringTomorrow (2026-09-24): Center Beef Shibuya relocated to 3-7-7 Shibuya, No. 6 Yagi Bldg 1F; steak rice from ¥980"
+  },
+  {
+    "name": "牛舌檸檬",
+    "canonical_name": "新宿焼肉 牛たんの檸檬 総本店",
+    "verified_address": "東京都新宿区西新宿7-16-12 YSビル B1F",
+    "district": "新宿",
+    "latitude": 35.6961369,
+    "longitude": 139.6978717,
+    "mrt_station": "西武新宿站 西武新宿線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "gyutan",
+      "yakiniku",
+      "izakaya"
+    ],
+    "price_level": 3,
+    "must_try": "極厚切牛たん (thick-cut charcoal-grilled beef tongue set)",
+    "branch_notes": "Thread notes call this the 西新宿店; its official name is the 総本店 (main branch). Other branches: Asakusa (2-9-13 TACT Asakusa 2F), Yurakucho (opened 2025), Osaka Namba. Reservations often booked a month ahead. Thread warnings apply to this Nishishinjuku location: p6-43/44 commenters warned against the 西新宿店 (cockroaches); p5-49 negative mention (too hard, 1hr wait).",
+    "evidence": "Foods Channel / operator release: 新宿焼肉 牛たんの檸檬 総本店, 東京都新宿区西新宿7-16-12 YSビル B1F; thick-cut gyutan set from ~¥2,800"
+  },
+  {
+    "name": "利久",
+    "canonical_name": "仙臺 たんや利久 東京駅店",
+    "verified_address": "東京都千代田区丸の内1-9-1",
+    "district": "丸の内",
+    "latitude": 35.6818319,
+    "longitude": 139.7667753,
+    "mrt_station": "東京站 JR各線・東京メトロ丸の内線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "gyutan",
+      "yakiniku"
+    ],
+    "price_level": 3,
+    "must_try": "牛たん定食 (charcoal-grilled beef tongue set with barley rice and tail soup; thick-cut version ¥3,850)",
+    "branch_notes": "Sendai-origin gyutan chain; other Tokyo branches include Tokyo Solamachi 6F (1-1-2 Oshiage), Ariake Garden 5F, Ginza, Kanda and Ueno (PARCO_ya 6F). Tokyo Station branch is inside Tokyo Station at Marunouchi 1-9-1.",
+    "evidence": "Official site rikyugyutan.co.jp: 仙臺 たんや利久 東京駅店, 丸の内1-9-1, 35.681566, 139.76676"
+  },
+  {
+    "name": "築地虎杖",
+    "canonical_name": "築地虎杖 魚河岸千両",
+    "verified_address": "東京都中央区築地4-9-7 中富水産ビル 1F",
+    "district": "築地",
+    "latitude": 35.6656006,
+    "longitude": 139.7699508,
+    "mrt_station": "築地市場站 都営大江戸線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "seafood-donburi",
+      "sushi"
+    ],
+    "price_level": 3,
+    "must_try": "元祖海鮮ひつまぶし (original seafood hitsumabushi, eaten three ways)",
+    "branch_notes": "Itadori group has about 16 Tokyo shops; other branches include うに虎 中通り店 (4-10-5 Tsukiji, now 鮨 うに虎), 築地海鮮虎杖 at Tokyo Solamachi 3F, and 築地魚河岸虎杖 at Seibu Ikebukuro 8F. Flagship 魚河岸千両 is the originator of the seafood hitsumabushi.",
+    "evidence": "Mapion/Gurunavi: 築地虎杖 魚河岸千両, 東京都中央区築地4-9-7 中富水産ビル1F; originator of 海鮮ひつまぶし"
+  },
+  {
+    "name": "鮨國",
+    "canonical_name": "鮨國",
+    "verified_address": "東京都中央区築地4-14-15 築四ビル 1F",
+    "district": "築地",
+    "latitude": 35.6647922,
+    "longitude": 139.7707203,
+    "mrt_station": "築地市場站 都営大江戸線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "seafood-donburi",
+      "sushi"
+    ],
+    "price_level": 4,
+    "must_try": "こぼれウニ丼 (overflowing sea urchin bowl)",
+    "branch_notes": "Single small counter shop in Tsukiji Outer Market; walk-in only, closed Wednesdays. Signature overflowing uni bowl is ¥8,000, which sets the price level; simpler seafood bowls are cheaper.",
+    "evidence": "Yelp / Instagram @tsukiji_sushikuni: 鮨國, 東京都中央区築地4-14-15 築四ビル1F; kobore uni don ¥8,000"
+  },
+  {
+    "name": "麵散",
+    "canonical_name": "麺散",
+    "verified_address": "東京都渋谷区神宮前6-13-7 1F",
+    "district": "原宿",
+    "latitude": 35.6664656,
+    "longitude": 139.7051119,
+    "mrt_station": "明治神宮前站 東京メトロ千代田線・副都心線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "udon"
+    ],
+    "price_level": 2,
+    "must_try": "釜たまカルボナーラうどん (kamatama carbonara udon)",
+    "branch_notes": "Single shop on Cat Street, Harajuku/Omotesando; long queues (30-60 min on weekends), numbered tickets sometimes used; closed Tuesdays. Thread name uses traditional 麵散; real shop name is 麺散 (めんちらし).",
+    "evidence": "Navitime/Mapion: 麺散, 東京都渋谷区神宮前6-13-7, 35.666487, 139.705056; carbonara udon ~¥1,000-2,000"
+  },
+  {
+    "name": "山下本氣",
+    "canonical_name": "山下本気うどん 新宿三丁目",
+    "verified_address": "東京都新宿区新宿3-32-2 MOTOビル 1F・2F",
+    "district": "新宿",
+    "latitude": 35.689985,
+    "longitude": 139.7037861,
+    "mrt_station": "新宿三丁目站 東京メトロ丸の内線・副都心線・都営新宿線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "udon"
+    ],
+    "price_level": 2,
+    "must_try": "白い明太チーズクリームうどん (white mentaiko cheese cream udon)",
+    "branch_notes": "Chain with 24+ Tokyo shops; other central branches include Shibuya Namikibashi, Shibuya Center-gai, Shibuya Dogenzaka, Kagurazaka, Shinjuku Kabukicho and Ikebukuro. Shinjuku-sanchome opened Jul 29, 2021, open 10:00-23:00 (Fri/Sat until 10:00 next morning). Thread name uses traditional 本氣; real name is 本気.",
+    "evidence": "PR Times (Garden Co., 2025-07-27): 山下本気うどん 新宿三丁目, 東京都新宿区新宿3-32-2 MOTOビル1F・2F"
+  },
+  {
+    "name": "海老丸拉麵",
+    "canonical_name": "海老丸らーめん",
+    "verified_address": "東京都千代田区西神田2-1-13 十勝ビル 1F",
+    "district": "神保町",
+    "latitude": 35.6986992,
+    "longitude": 139.7564592,
+    "mrt_station": "神保町站 東京メトロ半蔵門線・都営三田線・都営新宿線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "ramen",
+      "lobster",
+      "french"
+    ],
+    "price_level": 2,
+    "must_try": "元祖海老丸らーめん (original lobster ramen, ¥1,480)",
+    "branch_notes": "Single shop; French x ramen concept from a French-trained chef. Renovated and reopened Apr 21, 2022 as ebimaru ramen. Leftover soup is finished as risotto; also serves lobster carbonara and tantanmen variations. About 3 min from Jimbocho, 4 min from Suidobashi.",
+    "evidence": "Official site ebimaru.com: 海老丸らーめん, 東京都千代田区西神田2-1-13 十勝ビル1F, 35.698682, 139.756555; 元祖海老丸らーめん ¥1,480"
+  },
+  {
+    "name": "ぴょんぴょん舎",
+    "canonical_name": "ぴょんぴょん舎 Te-su 東京ソラマチ店",
+    "verified_address": "東京都墨田区押上1-1-2 東京ソラマチ 6F",
+    "district": "晴空塔/押上",
+    "latitude": 35.7100522,
+    "longitude": 139.8107128,
+    "mrt_station": "押上站 東京メトロ半蔵門線・都営浅草線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "cold-noodles",
+      "korean",
+      "yakiniku"
+    ],
+    "price_level": 2,
+    "must_try": "盛岡冷麺 (Morioka cold noodles, ¥1,100)",
+    "branch_notes": "Morioka-origin yakiniku/cold-noodle chain; Te-su is the Tokyo Solamachi branch (6F). Other Tokyo branch in Ginza (4-4-1 Ginza); home base in Morioka, Iwate, plus Sendai shops. Lunch set with noodles + mini rice bowl + drink ¥1,800.",
+    "evidence": "Official site pyonpyonsya.co.jp / Lavie Taste: ぴょんぴょん舎 Te-su, 東京都墨田区押上1-1-2 東京ソラマチ6F; 盛岡冷麺 ¥1,100"
+  },
+  {
+    "name": "極味屋",
+    "canonical_name": "極味や 東京駅店",
+    "verified_address": "東京都千代田区丸の内1-9-1 グランスタ八重北 1F",
+    "district": "丸の内",
+    "latitude": 35.6818319,
+    "longitude": 139.7667753,
+    "mrt_station": "東京站 JR各線・東京メトロ丸の内線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "hamburg-steak",
+      "wagyu",
+      "teppanyaki"
+    ],
+    "price_level": 2,
+    "must_try": "極味やハンバーグステーキ (wagyu hamburg steak, grilled bite by bite on the table teppan)",
+    "branch_notes": "Fukuoka-origin wagyu hamburg chain; other Tokyo branch at Shibuya Parco B1F (15-1 Udagawacho). Tokyo Station shop is in Gransta Yaekita 1F by the Yaesu North Gate; long queues, no reservations, rice/soup/salad/soft-serve refillable. Open 11:00-23:00.",
+    "evidence": "JR East Media / Gransta: 極味や 東京駅店, 東京都千代田区丸の内1-9-1 グランスタ八重北1F; hamburg steak S ¥1,298"
+  },
+  {
+    "name": "I'm donut?",
+    "canonical_name": "I'm donut? 渋谷店",
+    "verified_address": "東京都渋谷区渋谷2-9-1",
+    "district": "渋谷",
+    "latitude": 35.6608972,
+    "longitude": 139.7075511,
+    "mrt_station": "渋谷站 JR山手線・東京メトロ銀座線・半蔵門線・副都心線",
+    "poi_status": "matched",
+    "duplicate_of": null,
+    "cuisine_tags": [
+      "donuts",
+      "bakery",
+      "dessert"
+    ],
+    "price_level": 1,
+    "must_try": "生ドーナツ (fresh nama donuts, mochi-textured)",
+    "branch_notes": "Fukuoka Amam Dacotan brand; other Tokyo branches include Harajuku/Omotesando (1-14-24 Jingumae), Omotesando (3-5-18 Kita-Aoyama), Nakameguro, and a gluten-free Omotesando shop (5-53-4 Jingumae, opened Jun 29, 2025). Shibuya shop often has 1-3 hr queues, closes when sold out, closed Wed/Thu (subject to change).",
+    "evidence": "Instagram / Wanderlog: I'm donut? Shibuya, 東京都渋谷区渋谷2-9-1, 35.660954, 139.70757"
+  }
+]
